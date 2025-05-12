@@ -23,7 +23,7 @@ async def take_request(callback: CallbackQuery):
 
     # Получаем модератора из кеша
     moderator = await get_user_cached(callback.from_user.id)
-    if not moderator or moderator.role != "moderator":
+    if not moderator or moderator.role not in ("moderator", "admin"):
         logger.warning(f"Non-moderator {callback.from_user.id} tried to take request")
         text = await t_cached("only_moderator", moderator.language_code or "en")
         await callback.answer(text, show_alert=True)

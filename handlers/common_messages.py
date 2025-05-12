@@ -39,7 +39,7 @@ async def unified_handler(message: Message):
     lang = sender.language_code
 
     # Модератор
-    if role == "moderator":
+    if role in ("moderator", "admin"):
         req = await get_active_request_by_moderator_cached(sender.id)
         close_text = await get_close_text(lang)
 
