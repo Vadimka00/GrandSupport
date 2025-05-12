@@ -8,6 +8,7 @@ from handlers import start, user_request, moderator, common_messages
 from services.i18n import load_translations
 from utils.logger import setup_logger, logger
 from middlewares.group_filter import GroupFilterMiddleware
+from tasks.poller import poll_status_table
 
 
 bot = Bot(
@@ -37,6 +38,8 @@ async def main():
     )
 
     logger.info("🚀 Bot is polling...")
+    # Фоновый таск
+    asyncio.create_task(poll_status_table(bot))
     await dp.start_polling(bot)
 
 if __name__ == "__main__":

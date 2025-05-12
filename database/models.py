@@ -18,6 +18,7 @@ class User(Base):
         back_populates="user",
         foreign_keys="[SupportRequest.user_id]"
     )
+    credentials = relationship("Credentials", uselist=False, back_populates="user")
 
 class SupportRequest(Base):
     __tablename__ = "support_requests"
@@ -73,3 +74,20 @@ class Language(Base):
     name = Column(String(50), nullable=False)
     emoji = Column(String(10), default="")
     available = Column(Boolean, default=True)
+
+class Status(Base):
+    __tablename__ = "status"
+
+    id = Column(BigInteger, primary_key=True)         # Telegram ID
+    language_code = Column(String(2))                 # 'ru' / 'en'
+    role = Column(String(50))
+    text = Column(Text, nullable=True) 
+
+class Credentials(Base):
+    __tablename__ = "credentials"
+
+    user_id       = Column(BigInteger, ForeignKey("users.id"), primary_key=True)
+    email         = Column(String(255), unique=True, nullable=False)
+    password_hash = Column(String(255), nullable=False)
+
+    user = relationship("User", back_populates="credentials")

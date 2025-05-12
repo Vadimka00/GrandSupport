@@ -14,16 +14,16 @@ class GroupFilterMiddleware(BaseMiddleware):
         event: Update,
         data: Dict[str, Any]
     ) -> Any:
-        chat_id = None
-
         if isinstance(event, Message):
-            chat_id = event.chat.id
-        elif isinstance(event, CallbackQuery):
-            chat_id = event.message.chat.id
+            chat = event.chat
+            if chat.type in {"group", "supergroup"} and chat.id not in ALLOWED_GROUP_IDS:
+                logger.warning(f"Blocked message from unknown group: {chat.id}")
+                return  # блокируем
 
-        if chat_id and str(chat_id).startswith("-"):  # Только для групп
-            if chat_id not in ALLOWED_GROUP_IDS:
-                logger.warning(f"Blocked message from unknown group: {chat_id}")
-                return  # Игнорируем событие
+        if isinstance(event, CallbackQuery):
+            chat = event.message.chat
+            if chat.type in {"group", "supergroup"} and chat.id not in ALLOWED_GROUP_IDS:
+                logger.warning(f"Blocked callback from unknown group: {chat.id}")
+                return  # блокируем
 
         return await handler(event, data)

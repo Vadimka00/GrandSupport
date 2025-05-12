@@ -1,7 +1,10 @@
-from sqlalchemy import select, update
+# database/crud.py
+
+
+from sqlalchemy import select, update, delete
 from sqlalchemy.dialects.mysql import insert
 from database.base import async_session
-from database.models import User, SupportRequest, MessageHistory, Language
+from database.models import User, SupportRequest, MessageHistory, Language, Status
 from datetime import datetime
 from aiogram.types import Message
 from utils.logger import logger
@@ -168,3 +171,13 @@ async def get_available_languages():
     async with async_session() as session:
         result = await session.execute(select(Language).where(Language.available == True))
         return result.scalars().all()
+    
+async def get_pending_statuses():
+    async with async_session() as session:
+        result = await session.execute(select(Status))
+        return result.scalars().all()
+
+async def delete_status_by_id(user_id: int):
+    async with async_session() as session:
+        await session.execute(delete(Status).where(Status.id == user_id))
+        await session.commit()

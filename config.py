@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
+ADMIN_WEB = os.getenv("ADMIN_WEB")
 DB_URL = os.getenv("DB_URL")
 
 SUPPORT_GROUP_RU_ID = int(os.getenv("SUPPORT_GROUP_RU_ID"))

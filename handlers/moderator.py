@@ -1,39 +1,52 @@
+# handlers/moderator.py
+
 from aiogram import Router, F
-from aiogram.types import CallbackQuery, Message
-from aiogram.enums import ChatType
-from aiogram.filters import Command
+from aiogram.types import CallbackQuery, Message, ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 from aiogram.exceptions import TelegramBadRequest
-from aiogram.types import CallbackQuery, ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
 from database import crud
 from services.i18n import t
 from utils.logger import logger
+from services.cache import (
+    get_user_cached,
+    get_active_request_by_moderator_cached,
+    get_initial_message_cached,
+    get_request_by_id_cached,
+    t_cached
+)
 
 router = Router()
 
 @router.callback_query(F.data.startswith("take:"))
 async def take_request(callback: CallbackQuery):
     request_id = int(callback.data.split(":")[1])
-    moderator = await crud.get_user(callback.from_user.id)
+
+    # Получаем модератора из кеша
+    moderator = await get_user_cached(callback.from_user.id)
     if not moderator or moderator.role != "moderator":
         logger.warning(f"Non-moderator {callback.from_user.id} tried to take request")
-        await callback.answer(await t("only_moderator", moderator.language_code or "en"), show_alert=True)
+        text = await t_cached("only_moderator", moderator.language_code or "en")
+        await callback.answer(text, show_alert=True)
         return
 
-    existing = await crud.get_active_request_by_moderator(moderator.id)
+    # Проверяем, нет ли у модератора активного запроса
+    existing = await get_active_request_by_moderator_cached(moderator.id)
     if existing:
-        await callback.answer(await t("already_in_progress_mod", moderator.language_code), show_alert=True)
+        text = await t_cached("already_in_progress_mod", moderator.language_code)
+        await callback.answer(text, show_alert=True)
         return
 
+    # Пробуем назначить модератора
     updated = await crud.assign_request_to_moderator(request_id, moderator.id)
     if not updated:
-        await callback.answer(await t("already_in_progress", moderator.language_code), show_alert=True)
+        text = await t_cached("already_in_progress", moderator.language_code)
+        await callback.answer(text, show_alert=True)
         return
 
-    # Уведомляем модератора в личку
+    # Уведомляем модератора и отправляем клавиатуру
     lang = moderator.language_code
-    mod_msg = await t("you_assigned", lang)
-    close_text = await t("close_button", lang)
+    mod_msg = await t_cached("you_assigned", lang)
+    close_text = await t_cached("close_button", lang)
     mod_kb = ReplyKeyboardMarkup(
         keyboard=[[KeyboardButton(text=close_text)]],
         resize_keyboard=True,
@@ -46,8 +59,8 @@ async def take_request(callback: CallbackQuery):
     )
     logger.info(f"Moderator {moderator.id} assigned to request {request_id}")
 
-    # Отправляем модератору оригинальное сообщение пользователя
-    initial = await crud.get_initial_message(request_id)
+    # Пересылаем модератору оригинальное сообщение пользователя
+    initial = await get_initial_message_cached(request_id)
     if initial:
         if initial.photo_file_id:
             await callback.bot.send_photo(
@@ -56,25 +69,26 @@ async def take_request(callback: CallbackQuery):
                 caption=initial.caption or initial.text
             )
         else:
-            text = initial.text or initial.caption or ""
             await callback.bot.send_message(
                 moderator.id,
-                text
+                initial.text or initial.caption or ""
             )
 
-    # Уведомляем пользователя
-    req = await crud.get_request_by_id(request_id)
+    # Уведомляем пользователя о подключении модератора
+    req = await get_request_by_id_cached(request_id)
     user_lang = req.language
+    connected_text = await t_cached("moderator_connected", user_lang)
     await callback.bot.send_message(
         req.user_id,
-        await t("moderator_connected", user_lang),
+        connected_text,
         reply_markup=ReplyKeyboardRemove()
     )
 
     # Обновляем сообщение в группе: добавляем информацию о том, кто взял
     taken_by = f"@{moderator.username}" if moderator.username else str(moderator.id)
-    template = await t("taken_by", user_lang)
+    template = await t_cached("taken_by", user_lang)
     taken_text = template.replace("{moderator}", taken_by)
+
     if callback.message.photo:
         orig_caption = callback.message.caption or ""
         new_caption = f"{orig_caption}\n\n{taken_text}"
@@ -94,5 +108,7 @@ async def take_request(callback: CallbackQuery):
             logger.error(f"Unexpected TelegramBadRequest: {e}")
             raise
 
-    await callback.answer(await t("taken_success", lang))
+    # Ответ успешного взятия
+    success_text = await t_cached("taken_success", lang)
+    await callback.answer(success_text)
 
