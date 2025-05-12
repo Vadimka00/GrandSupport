@@ -1,0 +1,2221 @@
+[2025-05-08 10:02:35,368] [INFO] Launching bot...
+[2025-05-08 10:04:01,122] [INFO] Launching bot...
+[2025-05-08 10:05:24,331] [INFO] Launching bot...
+[2025-05-08 10:05:27,655] [INFO] ✅ Translations loaded
+[2025-05-08 10:05:27,656] [INFO] 🚀 Bot is polling...
+[2025-05-08 10:05:27,657] [INFO] Start polling
+[2025-05-08 10:05:28,639] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:05:39,918] [INFO] User 1858164732 upserted successfully.
+[2025-05-08 10:05:39,918] [INFO] User 1858164732 started bot (/start)
+[2025-05-08 10:05:40,730] [INFO] Update id=806484602 is handled. Duration 1531 ms by bot id=6971843804
+[2025-05-08 10:05:55,387] [INFO] User 1858164732 language set to ru
+[2025-05-08 10:05:55,389] [INFO] User 1858164732 selected language: ru
+[2025-05-08 10:05:57,299] [INFO] Update id=806484603 is handled. Duration 2632 ms by bot id=6971843804
+[2025-05-08 10:06:27,769] [WARNING] Received SIGINT signal
+[2025-05-08 10:06:27,771] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:06:27,771] [INFO] Polling stopped
+[2025-05-08 10:18:00,906] [INFO] Launching bot...
+[2025-05-08 10:18:04,747] [INFO] ✅ Translations loaded
+[2025-05-08 10:18:04,749] [INFO] 🚀 Bot is polling...
+[2025-05-08 10:18:04,750] [INFO] Start polling
+[2025-05-08 10:18:05,595] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:18:08,086] [INFO] User 1858164732 upserted successfully.
+[2025-05-08 10:18:08,087] [INFO] User 1858164732 started bot (/start)
+[2025-05-08 10:18:08,930] [INFO] Update id=806484604 is handled. Duration 1538 ms by bot id=6971843804
+[2025-05-08 10:18:14,955] [INFO] User 1858164732 language set to ru
+[2025-05-08 10:18:14,956] [INFO] User 1858164732 selected language: ru
+[2025-05-08 10:18:15,307] [INFO] Update id=806484605 is handled. Duration 1044 ms by bot id=6971843804
+[2025-05-08 10:18:19,102] [INFO] Update id=806484606 is handled. Duration 216 ms by bot id=6971843804
+[2025-05-08 10:20:10,965] [WARNING] Received SIGINT signal
+[2025-05-08 10:20:10,967] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:20:10,967] [INFO] Polling stopped
+[2025-05-08 10:21:39,199] [INFO] Launching bot...
+[2025-05-08 10:21:42,450] [INFO] ✅ Translations loaded
+[2025-05-08 10:21:42,450] [INFO] 🚀 Bot is polling...
+[2025-05-08 10:21:42,450] [INFO] Start polling
+[2025-05-08 10:21:43,421] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:21:53,821] [INFO] 🔔 Bot was just added to group -4648225494
+[2025-05-08 10:21:53,824] [WARNING] Blocked message from unknown group: -4648225494
+[2025-05-08 10:21:53,825] [INFO] Update id=806484608 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-08 10:21:54,487] [INFO] Update id=806484607 is handled. Duration 667 ms by bot id=6971843804
+[2025-05-08 10:22:49,700] [WARNING] Blocked message from unknown group: -4648225494
+[2025-05-08 10:22:49,701] [INFO] Update id=806484609 is handled. Duration 3 ms by bot id=6971843804
+[2025-05-08 10:23:33,054] [INFO] Update id=806484610 is handled. Duration 0 ms by bot id=6971843804
+[2025-05-08 10:23:33,222] [WARNING] Blocked message from unknown group: -4648225494
+[2025-05-08 10:23:33,222] [INFO] Update id=806484611 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-08 10:23:40,718] [INFO] 🔔 Bot was just added to group -4648225494
+[2025-05-08 10:23:40,884] [WARNING] Blocked message from unknown group: -4648225494
+[2025-05-08 10:23:40,884] [INFO] Update id=806484613 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 10:23:41,476] [INFO] Update id=806484612 is handled. Duration 758 ms by bot id=6971843804
+[2025-05-08 10:23:55,442] [INFO] Update id=806484614 is handled. Duration 0 ms by bot id=6971843804
+[2025-05-08 10:23:55,606] [WARNING] Blocked message from unknown group: -4648225494
+[2025-05-08 10:23:55,606] [INFO] Update id=806484615 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 10:24:05,606] [INFO] 🔔 Bot was just added to group -4648225494
+[2025-05-08 10:24:05,774] [WARNING] Blocked message from unknown group: -4648225494
+[2025-05-08 10:24:05,774] [INFO] Update id=806484617 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 10:24:05,819] [INFO] Update id=806484616 is handled. Duration 213 ms by bot id=6971843804
+[2025-05-08 10:24:40,721] [WARNING] Blocked message from unknown group: -4648225494
+[2025-05-08 10:24:40,721] [INFO] Update id=806484618 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 10:25:14,815] [INFO] Update id=806484619 is handled. Duration 0 ms by bot id=6971843804
+[2025-05-08 10:25:14,985] [WARNING] Blocked message from unknown group: -4648225494
+[2025-05-08 10:25:14,985] [INFO] Update id=806484620 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 10:25:19,890] [INFO] 🔔 Bot was just added to group -4648225494
+[2025-05-08 10:25:20,073] [WARNING] Blocked message from unknown group: -4648225494
+[2025-05-08 10:25:20,073] [INFO] Update id=806484622 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-08 10:25:20,179] [INFO] Update id=806484621 is handled. Duration 289 ms by bot id=6971843804
+[2025-05-08 10:25:46,194] [INFO] Update id=806484623 is handled. Duration 0 ms by bot id=6971843804
+[2025-05-08 10:25:46,389] [WARNING] Blocked message from unknown group: -4648225494
+[2025-05-08 10:25:46,389] [INFO] Update id=806484624 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-08 10:25:51,990] [INFO] 🔔 Bot was just added to group -4648225494
+[2025-05-08 10:25:52,163] [INFO] Update id=806484625 is handled. Duration 173 ms by bot id=6971843804
+[2025-05-08 10:25:52,186] [WARNING] Blocked message from unknown group: -4648225494
+[2025-05-08 10:25:52,186] [INFO] Update id=806484626 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 10:26:55,153] [INFO] 🔔 Bot was just added to group -1002517066083
+[2025-05-08 10:26:55,339] [INFO] Update id=806484627 is handled. Duration 186 ms by bot id=6971843804
+[2025-05-08 10:26:55,351] [WARNING] Blocked message from unknown group: -1002517066083
+[2025-05-08 10:26:55,351] [INFO] Update id=806484628 is handled. Duration 3 ms by bot id=6971843804
+[2025-05-08 10:26:55,351] [WARNING] Blocked message from unknown group: -4648225494
+[2025-05-08 10:26:55,351] [INFO] Update id=806484629 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 10:27:23,908] [INFO] Update id=806484630 is handled. Duration 0 ms by bot id=6971843804
+[2025-05-08 10:27:24,103] [WARNING] Blocked message from unknown group: -1002517066083
+[2025-05-08 10:27:24,104] [INFO] Update id=806484631 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 10:27:29,120] [INFO] 🔔 Bot was just added to group -1002517066083
+[2025-05-08 10:27:29,320] [INFO] Update id=806484632 is handled. Duration 200 ms by bot id=6971843804
+[2025-05-08 10:27:29,321] [WARNING] Blocked message from unknown group: -1002517066083
+[2025-05-08 10:27:29,321] [INFO] Update id=806484633 is handled. Duration 7 ms by bot id=6971843804
+[2025-05-08 10:29:10,273] [INFO] 🔔 Bot was just added to group -1002686669032
+[2025-05-08 10:29:10,471] [WARNING] Blocked message from unknown group: -1002686669032
+[2025-05-08 10:29:10,471] [INFO] Update id=806484635 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-08 10:29:10,509] [INFO] Update id=806484634 is handled. Duration 236 ms by bot id=6971843804
+[2025-05-08 10:29:37,029] [WARNING] Received SIGINT signal
+[2025-05-08 10:29:37,030] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:29:37,031] [INFO] Polling stopped
+[2025-05-08 10:29:49,675] [INFO] Launching bot...
+[2025-05-08 10:29:52,943] [INFO] ✅ Translations loaded
+[2025-05-08 10:29:52,945] [INFO] 🚀 Bot is polling...
+[2025-05-08 10:29:52,945] [INFO] Start polling
+[2025-05-08 10:29:54,555] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:29:56,512] [INFO] User 1858164732 started support request process
+[2025-05-08 10:29:57,323] [INFO] Update id=806484636 is handled. Duration 1505 ms by bot id=6971843804
+[2025-05-08 10:30:07,407] [INFO] SupportRequest 1 created for user 1858164732
+[2025-05-08 10:30:08,569] [INFO] Message saved for request 1 from 1858164732
+[2025-05-08 10:30:08,570] [INFO] New support request created: req_id=1, user_id=1858164732
+[2025-05-08 10:30:08,780] [INFO] Update id=806484637 is not handled. Duration 3052 ms by bot id=6971843804
+[2025-05-08 10:30:08,780] [ERROR] Cause exception while process update id=806484637 by bot id=6971843804
+TelegramBadRequest: Telegram server says - Bad Request: chat not found
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/middlewares/group_filter.py", line 29, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/handlers/user_request.py", line 58, in receive_request
+    await message.bot.send_message(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 2850, in send_message
+    return await self(call, request_timeout=request_timeout)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 478, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: chat not found
+[2025-05-08 10:30:36,760] [WARNING] Received SIGINT signal
+[2025-05-08 10:30:36,761] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:30:36,762] [INFO] Polling stopped
+[2025-05-08 10:31:44,104] [INFO] Launching bot...
+[2025-05-08 10:31:47,410] [INFO] ✅ Translations loaded
+[2025-05-08 10:31:47,410] [INFO] 🚀 Bot is polling...
+[2025-05-08 10:31:47,411] [INFO] Start polling
+[2025-05-08 10:31:48,213] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:31:52,702] [INFO] User 1858164732 started support request process
+[2025-05-08 10:31:53,510] [INFO] Update id=806484638 is handled. Duration 1501 ms by bot id=6971843804
+[2025-05-08 10:32:00,297] [INFO] SupportRequest 2 created for user 1858164732
+[2025-05-08 10:32:01,452] [INFO] Message saved for request 2 from 1858164732
+[2025-05-08 10:32:01,453] [INFO] New support request created: req_id=2, user_id=1858164732
+[2025-05-08 10:32:01,902] [INFO] Update id=806484639 is handled. Duration 3303 ms by bot id=6971843804
+[2025-05-08 10:32:23,629] [WARNING] Non-moderator 2031010965 tried to take request
+[2025-05-08 10:32:23,925] [INFO] Update id=806484640 is handled. Duration 992 ms by bot id=6971843804
+[2025-05-08 10:34:22,230] [INFO] User 2031010965 upserted successfully.
+[2025-05-08 10:34:22,232] [INFO] User 2031010965 started bot (/start)
+[2025-05-08 10:34:22,445] [INFO] Update id=806484641 is handled. Duration 915 ms by bot id=6971843804
+[2025-05-08 10:34:24,911] [INFO] User 2031010965 language set to ru
+[2025-05-08 10:34:24,912] [INFO] User 2031010965 selected language: ru
+[2025-05-08 10:34:25,372] [INFO] Update id=806484642 is handled. Duration 1155 ms by bot id=6971843804
+[2025-05-08 10:34:56,791] [INFO] Request 2 assigned to moderator 2031010965
+[2025-05-08 10:34:56,793] [INFO] Moderator 2031010965 took request 2
+[2025-05-08 10:34:58,205] [INFO] Update id=806484643 is handled. Duration 3038 ms by bot id=6971843804
+[2025-05-08 10:35:22,315] [INFO] Update id=806484644 is handled. Duration 696 ms by bot id=6971843804
+[2025-05-08 10:35:36,611] [INFO] Message saved for request 2 from 1858164732
+[2025-05-08 10:35:36,612] [INFO] User message forwarded: user_id=1858164732, request_id=2
+[2025-05-08 10:35:36,847] [INFO] Update id=806484645 is handled. Duration 2355 ms by bot id=6971843804
+[2025-05-08 10:35:46,360] [INFO] Update id=806484646 is handled. Duration 701 ms by bot id=6971843804
+[2025-05-08 10:36:47,863] [INFO] Update id=806484647 is handled. Duration 698 ms by bot id=6971843804
+[2025-05-08 10:37:15,758] [INFO] Update id=806484648 is handled. Duration 698 ms by bot id=6971843804
+[2025-05-08 10:37:24,784] [INFO] Update id=806484649 is handled. Duration 696 ms by bot id=6971843804
+[2025-05-08 10:37:37,081] [INFO] Update id=806484650 is handled. Duration 693 ms by bot id=6971843804
+[2025-05-08 10:37:47,020] [INFO] Update id=806484651 is handled. Duration 697 ms by bot id=6971843804
+[2025-05-08 10:41:20,157] [INFO] Update id=806484652 is handled. Duration 725 ms by bot id=6971843804
+[2025-05-08 10:41:25,222] [INFO] Update id=806484653 is handled. Duration 691 ms by bot id=6971843804
+[2025-05-08 10:42:02,380] [INFO] User 2031010965 upserted successfully.
+[2025-05-08 10:42:02,382] [INFO] User 2031010965 started bot (/start)
+[2025-05-08 10:42:02,609] [INFO] Update id=806484654 is handled. Duration 926 ms by bot id=6971843804
+[2025-05-08 10:42:17,271] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 10:42:17,271] [INFO] Update id=806484655 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 10:45:03,467] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 10:45:03,468] [INFO] Update id=806484656 is handled. Duration 3 ms by bot id=6971843804
+[2025-05-08 10:45:17,989] [WARNING] Blocked message from unknown group: -1001441755980
+[2025-05-08 10:45:17,990] [INFO] Update id=806484657 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 10:45:27,926] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 10:45:27,926] [INFO] Update id=806484658 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-08 10:45:49,411] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 10:45:49,412] [INFO] Update id=806484659 is handled. Duration 3 ms by bot id=6971843804
+[2025-05-08 10:48:54,648] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 10:48:54,649] [INFO] Update id=806484660 is handled. Duration 4 ms by bot id=6971843804
+[2025-05-08 10:49:37,423] [WARNING] Received SIGINT signal
+[2025-05-08 10:49:37,426] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:49:37,426] [INFO] Polling stopped
+[2025-05-08 10:49:43,346] [INFO] Launching bot...
+[2025-05-08 10:49:47,110] [INFO] ✅ Translations loaded
+[2025-05-08 10:49:47,112] [INFO] 🚀 Bot is polling...
+[2025-05-08 10:49:47,113] [INFO] Start polling
+[2025-05-08 10:49:47,952] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:49:49,071] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 10:49:49,072] [INFO] Update id=806484661 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-08 10:49:58,268] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 10:49:58,268] [INFO] Update id=806484662 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-08 10:50:36,796] [INFO] User 1858164732 started support request process
+[2025-05-08 10:50:37,597] [INFO] Update id=806484663 is handled. Duration 1496 ms by bot id=6971843804
+[2025-05-08 10:50:40,680] [INFO] SupportRequest 3 created for user 1858164732
+[2025-05-08 10:50:41,842] [INFO] Message saved for request 3 from 1858164732
+[2025-05-08 10:50:41,843] [INFO] New support request created: req_id=3, user_id=1858164732
+[2025-05-08 10:50:42,216] [INFO] Update id=806484664 is handled. Duration 3168 ms by bot id=6971843804
+[2025-05-08 10:50:51,891] [INFO] Request 3 assigned to moderator 2031010965
+[2025-05-08 10:50:51,893] [INFO] Update id=806484665 is not handled. Duration 1633 ms by bot id=6971843804
+[2025-05-08 10:50:51,893] [ERROR] Cause exception while process update id=806484665 by bot id=6971843804
+AttributeError: 'User' object has no attribute 'send_message'
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/middlewares/group_filter.py", line 29, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/handlers/start.py", line 25, in take_request
+    await callback.from_user.send_message(mod_msg)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/pydantic/main.py", line 989, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'User' object has no attribute 'send_message'
+[2025-05-08 10:50:58,279] [INFO] Update id=806484666 is handled. Duration 1625 ms by bot id=6971843804
+[2025-05-08 10:51:58,308] [WARNING] Received SIGINT signal
+[2025-05-08 10:51:58,309] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:51:58,310] [INFO] Polling stopped
+[2025-05-08 10:52:03,054] [INFO] Launching bot...
+[2025-05-08 10:52:06,275] [INFO] ✅ Translations loaded
+[2025-05-08 10:52:06,278] [INFO] 🚀 Bot is polling...
+[2025-05-08 10:52:06,278] [INFO] Start polling
+[2025-05-08 10:52:07,078] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:52:40,008] [INFO] User 1858164732 started support request process
+[2025-05-08 10:52:40,757] [INFO] Update id=806484667 is handled. Duration 1447 ms by bot id=6971843804
+[2025-05-08 10:52:42,860] [INFO] SupportRequest 4 created for user 1858164732
+[2025-05-08 10:52:44,011] [INFO] Message saved for request 4 from 1858164732
+[2025-05-08 10:52:44,012] [INFO] New support request created: req_id=4, user_id=1858164732
+[2025-05-08 10:52:44,452] [INFO] Update id=806484668 is handled. Duration 3215 ms by bot id=6971843804
+[2025-05-08 10:52:46,736] [INFO] Request 4 assigned to moderator 2031010965
+[2025-05-08 10:52:46,917] [INFO] Moderator 2031010965 assigned to request 4
+[2025-05-08 10:52:47,796] [INFO] Update id=806484669 is not handled. Duration 2676 ms by bot id=6971843804
+[2025-05-08 10:52:47,797] [ERROR] Cause exception while process update id=806484669 by bot id=6971843804
+AttributeError: 'coroutine' object has no attribute 'replace'
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/middlewares/group_filter.py", line 29, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/handlers/start.py", line 40, in take_request
+    taken_text = await t("taken_by", user_lang).replace("{moderator}", taken_by)
+AttributeError: 'coroutine' object has no attribute 'replace'
+[2025-05-08 10:55:46,674] [WARNING] Received SIGINT signal
+[2025-05-08 10:55:46,678] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:55:46,679] [INFO] Polling stopped
+[2025-05-08 10:55:50,394] [INFO] Launching bot...
+[2025-05-08 10:55:53,616] [INFO] ✅ Translations loaded
+[2025-05-08 10:55:53,616] [INFO] 🚀 Bot is polling...
+[2025-05-08 10:55:53,616] [INFO] Start polling
+[2025-05-08 10:55:54,603] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:56:06,336] [INFO] User 1858164732 started support request process
+[2025-05-08 10:56:06,999] [INFO] Update id=806484670 is handled. Duration 1358 ms by bot id=6971843804
+[2025-05-08 10:56:09,480] [INFO] SupportRequest 5 created for user 1858164732
+[2025-05-08 10:56:10,637] [INFO] Message saved for request 5 from 1858164732
+[2025-05-08 10:56:10,638] [INFO] New support request created: req_id=5, user_id=1858164732
+[2025-05-08 10:56:11,123] [INFO] Update id=806484671 is handled. Duration 3272 ms by bot id=6971843804
+[2025-05-08 10:56:13,355] [INFO] Request 5 assigned to moderator 2031010965
+[2025-05-08 10:56:13,540] [INFO] Moderator 2031010965 assigned to request 5
+[2025-05-08 10:56:14,775] [INFO] Update id=806484672 is not handled. Duration 3037 ms by bot id=6971843804
+[2025-05-08 10:56:14,775] [ERROR] Cause exception while process update id=806484672 by bot id=6971843804
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/middlewares/group_filter.py", line 29, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/handlers/moderator.py", line 53, in take_request
+    await callback.message.edit_reply_markup()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 478, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+[2025-05-08 10:56:54,541] [INFO] Update id=806484673 is handled. Duration 702 ms by bot id=6971843804
+[2025-05-08 10:57:29,837] [WARNING] Received SIGINT signal
+[2025-05-08 10:57:29,839] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:57:29,839] [INFO] Polling stopped
+[2025-05-08 10:57:48,857] [INFO] Launching bot...
+[2025-05-08 10:57:52,140] [INFO] ✅ Translations loaded
+[2025-05-08 10:57:52,141] [INFO] 🚀 Bot is polling...
+[2025-05-08 10:57:52,142] [INFO] Start polling
+[2025-05-08 10:57:53,028] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:57:53,896] [INFO] User 1858164732 started support request process
+[2025-05-08 10:57:54,691] [INFO] Update id=806484674 is handled. Duration 1490 ms by bot id=6971843804
+[2025-05-08 10:57:57,461] [INFO] SupportRequest 6 created for user 1858164732
+[2025-05-08 10:57:58,622] [INFO] Message saved for request 6 from 1858164732
+[2025-05-08 10:57:58,623] [INFO] New support request created: req_id=6, user_id=1858164732
+[2025-05-08 10:57:58,997] [INFO] Update id=806484675 is handled. Duration 3156 ms by bot id=6971843804
+[2025-05-08 10:58:02,344] [INFO] Request 6 assigned to moderator 2031010965
+[2025-05-08 10:58:02,559] [INFO] Moderator 2031010965 assigned to request 6
+[2025-05-08 10:58:03,906] [INFO] Update id=806484676 is not handled. Duration 3190 ms by bot id=6971843804
+[2025-05-08 10:58:03,906] [ERROR] Cause exception while process update id=806484676 by bot id=6971843804
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/handlers/moderator.py", line 59, in take_request
+    await callback.message.edit_reply_markup()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 478, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/middlewares/group_filter.py", line 29, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/handlers/moderator.py", line 61, in take_request
+    if "message is not modified" not in e.args[0]:
+IndexError: tuple index out of range
+[2025-05-08 10:58:38,488] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 10:58:38,489] [INFO] Update id=806484677 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 10:59:10,029] [WARNING] Received SIGINT signal
+[2025-05-08 10:59:10,030] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:59:10,031] [INFO] Polling stopped
+[2025-05-08 10:59:29,506] [INFO] Launching bot...
+[2025-05-08 10:59:32,749] [INFO] ✅ Translations loaded
+[2025-05-08 10:59:32,751] [INFO] 🚀 Bot is polling...
+[2025-05-08 10:59:32,752] [INFO] Start polling
+[2025-05-08 10:59:33,550] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 10:59:34,450] [INFO] User 1858164732 started support request process
+[2025-05-08 10:59:35,252] [INFO] Update id=806484678 is handled. Duration 1497 ms by bot id=6971843804
+[2025-05-08 10:59:36,142] [INFO] SupportRequest 7 created for user 1858164732
+[2025-05-08 10:59:37,293] [INFO] Message saved for request 7 from 1858164732
+[2025-05-08 10:59:37,294] [INFO] New support request created: req_id=7, user_id=1858164732
+[2025-05-08 10:59:37,735] [INFO] Update id=806484679 is handled. Duration 3224 ms by bot id=6971843804
+[2025-05-08 10:59:44,290] [INFO] Request 7 assigned to moderator 2031010965
+[2025-05-08 10:59:44,510] [INFO] Moderator 2031010965 assigned to request 7
+[2025-05-08 10:59:45,877] [INFO] No reply_markup change needed.
+[2025-05-08 10:59:46,080] [INFO] Update id=806484680 is handled. Duration 3409 ms by bot id=6971843804
+[2025-05-08 11:00:17,572] [INFO] Update id=806484681 is handled. Duration 701 ms by bot id=6971843804
+[2025-05-08 11:00:24,012] [INFO] Message saved for request 7 from 1858164732
+[2025-05-08 11:00:24,014] [INFO] User message forwarded: user_id=1858164732, request_id=7
+[2025-05-08 11:00:24,238] [INFO] Update id=806484682 is handled. Duration 2309 ms by bot id=6971843804
+[2025-05-08 11:03:56,304] [INFO] Update id=806484683 is handled. Duration 696 ms by bot id=6971843804
+[2025-05-08 11:04:09,431] [INFO] Update id=806484684 is handled. Duration 697 ms by bot id=6971843804
+[2025-05-08 11:04:51,099] [WARNING] Received SIGINT signal
+[2025-05-08 11:04:51,101] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 11:04:51,101] [INFO] Polling stopped
+[2025-05-08 11:05:15,234] [INFO] Launching bot...
+[2025-05-08 11:05:18,494] [INFO] ✅ Translations loaded
+[2025-05-08 11:05:18,495] [INFO] 🚀 Bot is polling...
+[2025-05-08 11:05:18,496] [INFO] Start polling
+[2025-05-08 11:05:19,340] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 11:05:21,658] [INFO] User 1858164732 started support request process
+[2025-05-08 11:05:22,455] [INFO] Update id=806484685 is handled. Duration 1533 ms by bot id=6971843804
+[2025-05-08 11:05:25,001] [INFO] SupportRequest 8 created for user 1858164732
+[2025-05-08 11:05:26,190] [INFO] Message saved for request 8 from 1858164732
+[2025-05-08 11:05:26,191] [INFO] New support request created: req_id=8, user_id=1858164732
+[2025-05-08 11:05:26,601] [INFO] Update id=806484686 is handled. Duration 3325 ms by bot id=6971843804
+[2025-05-08 11:05:36,874] [INFO] Request 8 assigned to moderator 2031010965
+[2025-05-08 11:05:37,066] [INFO] Moderator 2031010965 assigned to request 8
+[2025-05-08 11:05:37,763] [INFO] Update id=806484687 is not handled. Duration 2545 ms by bot id=6971843804
+[2025-05-08 11:05:37,764] [ERROR] Cause exception while process update id=806484687 by bot id=6971843804
+DetachedInstanceError: Parent instance <SupportRequest at 0x10741c430> is not bound to a Session; lazy load operation of attribute 'messages' cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/middlewares/group_filter.py", line 29, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/handlers/moderator.py", line 35, in take_request
+    if request.messages:
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/sqlalchemy/orm/attributes.py", line 566, in __get__
+    return self.impl.get(state, dict_)  # type: ignore[no-any-return]
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/sqlalchemy/orm/attributes.py", line 1086, in get
+    value = self._fire_loader_callables(state, key, passive)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/sqlalchemy/orm/attributes.py", line 1121, in _fire_loader_callables
+    return self.callable_(state, passive)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/sqlalchemy/orm/strategies.py", line 922, in _load_for_state
+    raise orm_exc.DetachedInstanceError(
+sqlalchemy.orm.exc.DetachedInstanceError: Parent instance <SupportRequest at 0x10741c430> is not bound to a Session; lazy load operation of attribute 'messages' cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+[2025-05-08 11:07:54,682] [WARNING] Received SIGINT signal
+[2025-05-08 11:07:54,685] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 11:07:54,685] [INFO] Polling stopped
+[2025-05-08 11:14:52,009] [INFO] Launching bot...
+[2025-05-08 11:14:55,264] [INFO] ✅ Translations loaded
+[2025-05-08 11:14:55,265] [INFO] 🚀 Bot is polling...
+[2025-05-08 11:14:55,266] [INFO] Start polling
+[2025-05-08 11:14:56,117] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 11:14:56,993] [INFO] User 1858164732 started support request process
+[2025-05-08 11:14:57,801] [INFO] Update id=806484688 is handled. Duration 1504 ms by bot id=6971843804
+[2025-05-08 11:15:03,325] [INFO] SupportRequest 9 created for user 1858164732
+[2025-05-08 11:15:04,490] [INFO] Message saved for request 9 from 1858164732
+[2025-05-08 11:15:04,491] [INFO] New support request created: req_id=9, user_id=1858164732
+[2025-05-08 11:15:04,941] [INFO] Update id=806484689 is handled. Duration 3254 ms by bot id=6971843804
+[2025-05-08 11:15:10,064] [INFO] Request 9 assigned to moderator 2031010965
+[2025-05-08 11:15:10,284] [INFO] Moderator 2031010965 assigned to request 9
+[2025-05-08 11:15:13,344] [INFO] No reply_markup change needed.
+[2025-05-08 11:15:13,548] [INFO] Update id=806484690 is handled. Duration 5114 ms by bot id=6971843804
+[2025-05-08 11:15:20,930] [INFO] Update id=806484691 is handled. Duration 696 ms by bot id=6971843804
+[2025-05-08 11:15:33,808] [INFO] Message saved for request 9 from 1858164732
+[2025-05-08 11:15:33,809] [INFO] User message forwarded: user_id=1858164732, request_id=9
+[2025-05-08 11:15:34,066] [INFO] Update id=806484692 is handled. Duration 2355 ms by bot id=6971843804
+[2025-05-08 11:15:46,245] [INFO] Update id=806484693 is handled. Duration 699 ms by bot id=6971843804
+[2025-05-08 11:16:02,851] [INFO] Update id=806484694 is handled. Duration 706 ms by bot id=6971843804
+[2025-05-08 11:17:14,203] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 11:17:14,204] [INFO] Update id=806484695 is handled. Duration 5 ms by bot id=6971843804
+[2025-05-08 11:17:14,204] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 11:17:14,204] [INFO] Update id=806484696 is handled. Duration 4 ms by bot id=6971843804
+[2025-05-08 11:17:14,204] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 11:17:14,204] [INFO] Update id=806484697 is handled. Duration 3 ms by bot id=6971843804
+[2025-05-08 11:17:14,204] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 11:17:14,205] [INFO] Update id=806484698 is handled. Duration 3 ms by bot id=6971843804
+[2025-05-08 11:26:53,123] [WARNING] Received SIGINT signal
+[2025-05-08 11:26:53,126] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 11:26:53,127] [INFO] Polling stopped
+[2025-05-08 11:27:22,470] [INFO] Launching bot...
+[2025-05-08 11:27:26,279] [INFO] ✅ Translations loaded
+[2025-05-08 11:27:26,281] [INFO] 🚀 Bot is polling...
+[2025-05-08 11:27:26,281] [INFO] Start polling
+[2025-05-08 11:27:27,126] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 11:27:32,808] [INFO] User 1858164732 started support request process
+[2025-05-08 11:27:33,716] [INFO] Update id=806484699 is handled. Duration 1608 ms by bot id=6971843804
+[2025-05-08 11:27:39,172] [INFO] SupportRequest 10 created for user 1858164732
+[2025-05-08 11:27:40,364] [INFO] Message saved for request 10 from 1858164732
+[2025-05-08 11:27:40,365] [INFO] New support request created: req_id=10, user_id=1858164732
+[2025-05-08 11:27:40,737] [INFO] Update id=806484700 is handled. Duration 3226 ms by bot id=6971843804
+[2025-05-08 11:27:46,869] [INFO] Request 10 assigned to moderator 2031010965
+[2025-05-08 11:27:47,092] [INFO] Moderator 2031010965 assigned to request 10
+[2025-05-08 11:27:49,556] [INFO] Update id=806484701 is handled. Duration 4315 ms by bot id=6971843804
+[2025-05-08 11:28:35,369] [INFO] Update id=806484702 is handled. Duration 718 ms by bot id=6971843804
+[2025-05-08 11:28:59,409] [INFO] User 1858164732 started support request process
+[2025-05-08 11:28:59,702] [INFO] Update id=806484703 is handled. Duration 1033 ms by bot id=6971843804
+[2025-05-08 11:29:02,923] [INFO] SupportRequest 11 created for user 1858164732
+[2025-05-08 11:29:04,073] [INFO] Message saved for request 11 from 1858164732
+[2025-05-08 11:29:04,074] [INFO] New support request created: req_id=11, user_id=1858164732
+[2025-05-08 11:29:04,452] [INFO] Update id=806484704 is handled. Duration 3149 ms by bot id=6971843804
+[2025-05-08 11:29:11,271] [INFO] Request 11 assigned to moderator 2031010965
+[2025-05-08 11:29:11,484] [INFO] Moderator 2031010965 assigned to request 11
+[2025-05-08 11:29:13,914] [INFO] Update id=806484705 is handled. Duration 4262 ms by bot id=6971843804
+[2025-05-08 11:29:19,110] [WARNING] Received SIGINT signal
+[2025-05-08 11:29:19,111] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 11:29:19,112] [INFO] Polling stopped
+[2025-05-08 11:29:26,906] [INFO] Launching bot...
+[2025-05-08 11:29:30,130] [INFO] ✅ Translations loaded
+[2025-05-08 11:29:30,132] [INFO] 🚀 Bot is polling...
+[2025-05-08 11:29:30,133] [INFO] Start polling
+[2025-05-08 11:29:30,921] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 11:29:42,448] [INFO] User 1858164732 started support request process
+[2025-05-08 11:29:43,249] [INFO] Update id=806484706 is handled. Duration 1497 ms by bot id=6971843804
+[2025-05-08 11:29:46,048] [INFO] SupportRequest 12 created for user 1858164732
+[2025-05-08 11:29:47,235] [INFO] Message saved for request 12 from 1858164732
+[2025-05-08 11:29:47,236] [INFO] New support request created: req_id=12, user_id=1858164732
+[2025-05-08 11:29:47,690] [INFO] Update id=806484707 is handled. Duration 3270 ms by bot id=6971843804
+[2025-05-08 11:29:50,930] [INFO] Request 12 assigned to moderator 2031010965
+[2025-05-08 11:29:51,148] [INFO] Moderator 2031010965 assigned to request 12
+[2025-05-08 11:29:53,775] [INFO] Update id=806484708 is handled. Duration 4480 ms by bot id=6971843804
+[2025-05-08 11:29:58,491] [INFO] Update id=806484709 is handled. Duration 692 ms by bot id=6971843804
+[2025-05-08 11:40:17,660] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 11:40:17,661] [INFO] Update id=806484710 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 11:40:20,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 11:40:20,300] [INFO] Update id=806484711 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-08 12:21:04,590] [WARNING] Blocked message from unknown group: -1001751824497
+[2025-05-08 12:21:04,591] [INFO] Update id=806484712 is handled. Duration 8 ms by bot id=6971843804
+[2025-05-08 12:21:04,591] [WARNING] Blocked message from unknown group: -1001751824497
+[2025-05-08 12:21:04,591] [INFO] Update id=806484713 is handled. Duration 7 ms by bot id=6971843804
+[2025-05-08 12:21:04,591] [WARNING] Blocked message from unknown group: -1001751824497
+[2025-05-08 12:21:04,591] [INFO] Update id=806484714 is handled. Duration 6 ms by bot id=6971843804
+[2025-05-08 12:21:04,591] [WARNING] Blocked message from unknown group: -1001751824497
+[2025-05-08 12:21:04,591] [INFO] Update id=806484715 is handled. Duration 6 ms by bot id=6971843804
+[2025-05-08 12:21:56,880] [WARNING] Blocked message from unknown group: -1001880038304
+[2025-05-08 12:21:56,880] [INFO] Update id=806484716 is handled. Duration 10 ms by bot id=6971843804
+[2025-05-08 12:21:56,880] [WARNING] Blocked message from unknown group: -1001880038304
+[2025-05-08 12:21:56,881] [INFO] Update id=806484717 is handled. Duration 10 ms by bot id=6971843804
+[2025-05-08 12:21:56,881] [WARNING] Blocked message from unknown group: -1001880038304
+[2025-05-08 12:21:56,881] [INFO] Update id=806484718 is handled. Duration 10 ms by bot id=6971843804
+[2025-05-08 12:21:56,881] [WARNING] Blocked message from unknown group: -1001880038304
+[2025-05-08 12:21:56,881] [INFO] Update id=806484719 is handled. Duration 9 ms by bot id=6971843804
+[2025-05-08 12:21:56,881] [WARNING] Blocked message from unknown group: -1001880038304
+[2025-05-08 12:21:56,881] [INFO] Update id=806484720 is handled. Duration 9 ms by bot id=6971843804
+[2025-05-08 12:21:56,881] [WARNING] Blocked message from unknown group: -1001880038304
+[2025-05-08 12:21:56,881] [INFO] Update id=806484721 is handled. Duration 4 ms by bot id=6971843804
+[2025-05-08 12:29:34,545] [WARNING] Received SIGINT signal
+[2025-05-08 12:29:34,548] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 12:29:34,548] [INFO] Polling stopped
+[2025-05-08 12:34:38,755] [INFO] Launching bot...
+[2025-05-08 12:34:42,529] [INFO] ✅ Translations loaded
+[2025-05-08 12:34:42,530] [INFO] 🚀 Bot is polling...
+[2025-05-08 12:34:42,530] [INFO] Start polling
+[2025-05-08 12:34:43,485] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 12:34:46,594] [INFO] User 1858164732 upserted successfully.
+[2025-05-08 12:34:46,595] [INFO] User 1858164732 started bot (/start)
+[2025-05-08 12:34:46,596] [INFO] Update id=806484722 is not handled. Duration 694 ms by bot id=6971843804
+[2025-05-08 12:34:46,596] [ERROR] Cause exception while process update id=806484722 by bot id=6971843804
+AttributeError: 'NoneType' object has no attribute 'language'
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/middlewares/group_filter.py", line 29, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/handlers/start.py", line 32, in cmd_start
+    if user.language:
+AttributeError: 'NoneType' object has no attribute 'language'
+[2025-05-08 12:37:08,521] [WARNING] Received SIGINT signal
+[2025-05-08 12:37:08,523] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 12:37:08,524] [INFO] Polling stopped
+[2025-05-08 12:37:13,290] [INFO] Launching bot...
+[2025-05-08 12:37:16,543] [INFO] ✅ Translations loaded
+[2025-05-08 12:37:16,544] [INFO] 🚀 Bot is polling...
+[2025-05-08 12:37:16,544] [INFO] Start polling
+[2025-05-08 12:37:17,523] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 12:37:18,652] [INFO] User 1858164732 upserted successfully.
+[2025-05-08 12:37:19,110] [INFO] User 1858164732 started bot (/start)
+[2025-05-08 12:37:19,111] [INFO] Update id=806484723 is not handled. Duration 1382 ms by bot id=6971843804
+[2025-05-08 12:37:19,111] [ERROR] Cause exception while process update id=806484723 by bot id=6971843804
+AttributeError: 'User' object has no attribute 'language'
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/middlewares/group_filter.py", line 29, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/handlers/start.py", line 32, in cmd_start
+    if user.language:
+AttributeError: 'User' object has no attribute 'language'
+[2025-05-08 12:38:03,788] [WARNING] Received SIGINT signal
+[2025-05-08 12:38:03,789] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 12:38:03,790] [INFO] Polling stopped
+[2025-05-08 12:38:07,884] [INFO] Launching bot...
+[2025-05-08 12:38:11,088] [INFO] ✅ Translations loaded
+[2025-05-08 12:38:11,090] [INFO] 🚀 Bot is polling...
+[2025-05-08 12:38:11,090] [INFO] Start polling
+[2025-05-08 12:38:12,556] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 12:38:13,652] [INFO] User 1858164732 upserted successfully.
+[2025-05-08 12:38:14,110] [INFO] User 1858164732 started bot (/start)
+[2025-05-08 12:38:14,901] [INFO] Update id=806484724 is handled. Duration 2169 ms by bot id=6971843804
+[2025-05-08 12:38:27,233] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 12:38:27,234] [INFO] Update id=806484725 is handled. Duration 0 ms by bot id=6971843804
+[2025-05-08 12:39:13,566] [ERROR] Error in get_active_request_by_user(1858164732): Multiple rows were found when one or none was required
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/database/crud.py", line 122, in get_active_request_by_user
+    return result.scalar_one_or_none()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/sqlalchemy/engine/result.py", line 1485, in scalar_one_or_none
+    return self._only_one_row(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/sqlalchemy/engine/result.py", line 805, in _only_one_row
+    raise exc.MultipleResultsFound(
+sqlalchemy.exc.MultipleResultsFound: Multiple rows were found when one or none was required
+
+[2025-05-08 12:39:13,566] [INFO] Update id=806484726 is handled. Duration 1395 ms by bot id=6971843804
+[2025-05-08 12:39:41,664] [WARNING] Received SIGINT signal
+[2025-05-08 12:39:41,666] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 12:39:41,666] [INFO] Polling stopped
+[2025-05-08 12:39:46,410] [INFO] Launching bot...
+[2025-05-08 12:39:50,126] [INFO] ✅ Translations loaded
+[2025-05-08 12:39:50,128] [INFO] 🚀 Bot is polling...
+[2025-05-08 12:39:50,128] [INFO] Start polling
+[2025-05-08 12:39:50,918] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 12:39:52,038] [INFO] User 1858164732 upserted successfully.
+[2025-05-08 12:39:52,495] [INFO] User 1858164732 started bot (/start)
+[2025-05-08 12:39:53,147] [INFO] Update id=806484727 is handled. Duration 2030 ms by bot id=6971843804
+[2025-05-08 12:40:34,977] [WARNING] Unauthorized /reload_translations attempt by 1858164732
+[2025-05-08 12:40:34,978] [INFO] Update id=806484728 is handled. Duration 938 ms by bot id=6971843804
+[2025-05-08 12:40:48,681] [INFO] User 1858164732 upserted successfully.
+[2025-05-08 12:40:49,139] [INFO] User 1858164732 started bot (/start)
+[2025-05-08 12:40:49,349] [INFO] Update id=806484729 is handled. Duration 1596 ms by bot id=6971843804
+[2025-05-08 12:41:00,015] [INFO] Moderator 1858164732 reloaded translations
+[2025-05-08 12:41:00,015] [INFO] Update id=806484730 is handled. Duration 1618 ms by bot id=6971843804
+[2025-05-08 12:42:01,900] [WARNING] Blocked message from unknown group: -1001751824497
+[2025-05-08 12:42:01,901] [INFO] Update id=806484731 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 12:55:56,713] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 12:55:56,715] [INFO] Update id=806484732 is handled. Duration 5 ms by bot id=6971843804
+[2025-05-08 13:00:40,803] [WARNING] Blocked message from unknown group: -1001876209191
+[2025-05-08 13:00:40,804] [INFO] Update id=806484733 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 13:08:19,827] [WARNING] Blocked message from unknown group: -1001751824497
+[2025-05-08 13:08:19,829] [INFO] Update id=806484734 is handled. Duration 4 ms by bot id=6971843804
+[2025-05-08 13:08:45,799] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-08 13:08:45,800] [INFO] Update id=806484735 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-08 13:08:58,569] [WARNING] Blocked message from unknown group: -1002190035119
+[2025-05-08 13:08:58,569] [INFO] Update id=806484736 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 13:11:21,618] [WARNING] Blocked message from unknown group: -1001880038304
+[2025-05-08 13:11:21,619] [INFO] Update id=806484737 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-08 13:11:22,142] [WARNING] Blocked message from unknown group: -1001693817908
+[2025-05-08 13:11:22,143] [INFO] Update id=806484738 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 13:12:52,454] [WARNING] Blocked message from unknown group: -1001693817908
+[2025-05-08 13:12:52,455] [INFO] Update id=806484739 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-08 13:16:45,812] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 13:16:45,814] [INFO] Update id=806484740 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 13:17:10,762] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 13:17:10,762] [INFO] Update id=806484741 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 13:35:13,571] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 13:35:13,572] [INFO] Update id=806484742 is handled. Duration 6 ms by bot id=6971843804
+[2025-05-08 13:35:13,573] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 13:35:13,573] [INFO] Update id=806484743 is handled. Duration 5 ms by bot id=6971843804
+[2025-05-08 13:35:23,915] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 13:35:23,915] [INFO] Update id=806484744 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 13:38:10,726] [WARNING] Blocked message from unknown group: -1002217928879
+[2025-05-08 13:38:10,728] [INFO] Update id=806484745 is handled. Duration 3 ms by bot id=6971843804
+[2025-05-08 13:43:14,589] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-08 13:43:14,590] [INFO] Update id=806484746 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-08 13:47:30,536] [WARNING] Received SIGINT signal
+[2025-05-08 13:47:30,540] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-08 13:47:30,541] [INFO] Polling stopped
+[2025-05-11 09:53:26,347] [INFO] Launching bot...
+[2025-05-11 09:53:29,652] [INFO] ✅ Translations loaded
+[2025-05-11 09:53:29,654] [INFO] 🚀 Bot is polling...
+[2025-05-11 09:53:29,654] [INFO] Start polling
+[2025-05-11 09:53:30,675] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 09:53:31,297] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,298] [INFO] Update id=806485278 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,298] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,298] [INFO] Update id=806485279 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,298] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,298] [INFO] Update id=806485280 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,298] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,298] [INFO] Update id=806485281 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,298] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,298] [INFO] Update id=806485282 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,298] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,298] [INFO] Update id=806485283 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,299] [INFO] Update id=806485284 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,299] [INFO] Update id=806485285 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,299] [INFO] Update id=806485286 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,299] [INFO] Update id=806485287 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,299] [INFO] Update id=806485288 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,299] [INFO] Update id=806485289 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,299] [INFO] Update id=806485290 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,299] [INFO] Update id=806485291 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,299] [INFO] Update id=806485292 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,299] [INFO] Update id=806485293 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,299] [INFO] Update id=806485294 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,299] [INFO] Update id=806485295 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,299] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485296 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485297 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485298 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485299 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485300 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485301 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485302 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485303 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485304 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485305 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485306 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485307 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485308 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485309 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,300] [INFO] Update id=806485310 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1001880038304
+[2025-05-11 09:53:31,300] [INFO] Update id=806485311 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1001751824497
+[2025-05-11 09:53:31,300] [INFO] Update id=806485312 is handled. Duration 15 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1001651546670
+[2025-05-11 09:53:31,300] [INFO] Update id=806485313 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,300] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,300] [INFO] Update id=806485314 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,301] [INFO] Update id=806485315 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002217928879
+[2025-05-11 09:53:31,301] [INFO] Update id=806485316 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485317 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485318 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485319 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485320 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485321 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485322 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485323 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485324 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485325 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485326 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485327 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485328 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,301] [INFO] Update id=806485329 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1001876209191
+[2025-05-11 09:53:31,301] [INFO] Update id=806485330 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485331 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,301] [INFO] Update id=806485332 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,301] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485333 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,302] [INFO] Update id=806485334 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485335 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485336 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485337 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485338 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485339 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485340 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485341 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485342 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485343 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485344 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485345 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485346 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485347 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,302] [INFO] Update id=806485348 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1002217928879
+[2025-05-11 09:53:31,302] [INFO] Update id=806485349 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,302] [INFO] Update id=806485350 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,302] [WARNING] Blocked message from unknown group: -1001751824497
+[2025-05-11 09:53:31,302] [INFO] Update id=806485351 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1002190035119
+[2025-05-11 09:53:31,303] [INFO] Update id=806485352 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1001876209191
+[2025-05-11 09:53:31,303] [INFO] Update id=806485353 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1002217928879
+[2025-05-11 09:53:31,303] [INFO] Update id=806485354 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1002190035119
+[2025-05-11 09:53:31,303] [INFO] Update id=806485355 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1002217928879
+[2025-05-11 09:53:31,303] [INFO] Update id=806485356 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1001751824497
+[2025-05-11 09:53:31,303] [INFO] Update id=806485357 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,303] [INFO] Update id=806485358 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,303] [INFO] Update id=806485359 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,303] [INFO] Update id=806485360 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,303] [INFO] Update id=806485361 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1001693817908
+[2025-05-11 09:53:31,303] [INFO] Update id=806485362 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1001880038304
+[2025-05-11 09:53:31,303] [INFO] Update id=806485363 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,303] [INFO] Update id=806485364 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,303] [INFO] Update id=806485365 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,303] [INFO] Update id=806485366 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,303] [INFO] Update id=806485367 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,303] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,303] [INFO] Update id=806485368 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,304] [WARNING] Blocked message from unknown group: -1002190035119
+[2025-05-11 09:53:31,304] [INFO] Update id=806485369 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,304] [WARNING] Blocked message from unknown group: -1001651546670
+[2025-05-11 09:53:31,304] [INFO] Update id=806485370 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,304] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,304] [INFO] Update id=806485371 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,304] [WARNING] Blocked message from unknown group: -1001693817908
+[2025-05-11 09:53:31,304] [INFO] Update id=806485372 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,304] [WARNING] Blocked message from unknown group: -1001693817908
+[2025-05-11 09:53:31,304] [INFO] Update id=806485373 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,304] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,304] [INFO] Update id=806485374 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,304] [WARNING] Blocked message from unknown group: -1001693817908
+[2025-05-11 09:53:31,304] [INFO] Update id=806485375 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,304] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,304] [INFO] Update id=806485376 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,304] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,304] [INFO] Update id=806485377 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,525] [WARNING] Blocked message from unknown group: -1001693817908
+[2025-05-11 09:53:31,525] [INFO] Update id=806485378 is handled. Duration 21 ms by bot id=6971843804
+[2025-05-11 09:53:31,525] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,525] [INFO] Update id=806485379 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,525] [WARNING] Blocked message from unknown group: -1001651546670
+[2025-05-11 09:53:31,525] [INFO] Update id=806485380 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,525] [WARNING] Blocked message from unknown group: -1001880038304
+[2025-05-11 09:53:31,525] [INFO] Update id=806485381 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,526] [INFO] Update id=806485382 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,526] [INFO] Update id=806485383 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,526] [INFO] Update id=806485384 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,526] [INFO] Update id=806485385 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1001651546670
+[2025-05-11 09:53:31,526] [INFO] Update id=806485386 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,526] [INFO] Update id=806485387 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,526] [INFO] Update id=806485388 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,526] [INFO] Update id=806485389 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,526] [INFO] Update id=806485390 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,526] [INFO] Update id=806485391 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,526] [INFO] Update id=806485392 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,526] [INFO] Update id=806485393 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,526] [INFO] Update id=806485394 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,526] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,527] [INFO] Update id=806485395 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,527] [INFO] Update id=806485396 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,527] [INFO] Update id=806485397 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,527] [INFO] Update id=806485398 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,527] [INFO] Update id=806485399 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,527] [INFO] Update id=806485400 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,527] [INFO] Update id=806485401 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,527] [INFO] Update id=806485402 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,527] [INFO] Update id=806485403 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,527] [INFO] Update id=806485404 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,527] [INFO] Update id=806485405 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,527] [INFO] Update id=806485406 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,527] [INFO] Update id=806485407 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,527] [INFO] Update id=806485408 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,527] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,527] [INFO] Update id=806485409 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485410 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485411 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,528] [INFO] Update id=806485412 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485413 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485414 is handled. Duration 20 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485415 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485416 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485417 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485418 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485419 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485420 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485421 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485422 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485423 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,528] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,528] [INFO] Update id=806485424 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,529] [INFO] Update id=806485425 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,529] [INFO] Update id=806485426 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,529] [INFO] Update id=806485427 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,529] [INFO] Update id=806485428 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,529] [INFO] Update id=806485429 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,529] [INFO] Update id=806485430 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,529] [INFO] Update id=806485431 is handled. Duration 19 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,529] [INFO] Update id=806485432 is handled. Duration 18 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,529] [INFO] Update id=806485433 is handled. Duration 18 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001652396137
+[2025-05-11 09:53:31,529] [INFO] Update id=806485434 is handled. Duration 18 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001652396137
+[2025-05-11 09:53:31,529] [INFO] Update id=806485435 is handled. Duration 18 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001652396137
+[2025-05-11 09:53:31,529] [INFO] Update id=806485436 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,529] [INFO] Update id=806485437 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,529] [INFO] Update id=806485438 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,529] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,529] [INFO] Update id=806485439 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,530] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,530] [INFO] Update id=806485440 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,530] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,530] [INFO] Update id=806485441 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,530] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,530] [INFO] Update id=806485442 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,530] [WARNING] Blocked message from unknown group: -1001441755980
+[2025-05-11 09:53:31,530] [INFO] Update id=806485443 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,530] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,530] [INFO] Update id=806485444 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,530] [WARNING] Blocked message from unknown group: -1002190035119
+[2025-05-11 09:53:31,530] [INFO] Update id=806485445 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,530] [WARNING] Blocked message from unknown group: -1001751824497
+[2025-05-11 09:53:31,530] [INFO] Update id=806485446 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,530] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,530] [INFO] Update id=806485447 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,530] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,530] [INFO] Update id=806485448 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,530] [WARNING] Blocked message from unknown group: -1001502100689
+[2025-05-11 09:53:31,530] [INFO] Update id=806485449 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,531] [INFO] Update id=806485450 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,531] [INFO] Update id=806485451 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,531] [INFO] Update id=806485452 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,531] [INFO] Update id=806485453 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,531] [INFO] Update id=806485454 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,531] [INFO] Update id=806485455 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,531] [INFO] Update id=806485456 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,531] [INFO] Update id=806485457 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,531] [INFO] Update id=806485458 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,531] [INFO] Update id=806485459 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,531] [INFO] Update id=806485460 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,531] [INFO] Update id=806485461 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,531] [INFO] Update id=806485462 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,531] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,531] [INFO] Update id=806485463 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,532] [INFO] Update id=806485464 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,532] [INFO] Update id=806485465 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,532] [INFO] Update id=806485466 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,532] [INFO] Update id=806485467 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,532] [INFO] Update id=806485468 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,532] [INFO] Update id=806485469 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,532] [INFO] Update id=806485470 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,532] [INFO] Update id=806485471 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,532] [INFO] Update id=806485472 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,532] [INFO] Update id=806485473 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,532] [INFO] Update id=806485474 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,532] [INFO] Update id=806485475 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,532] [INFO] Update id=806485476 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,532] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,533] [INFO] Update id=806485477 is handled. Duration 17 ms by bot id=6971843804
+[2025-05-11 09:53:31,736] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,736] [INFO] Update id=806485478 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,736] [WARNING] Blocked message from unknown group: -1002217928879
+[2025-05-11 09:53:31,736] [INFO] Update id=806485479 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,737] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,737] [INFO] Update id=806485480 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,737] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,737] [INFO] Update id=806485481 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,737] [WARNING] Blocked message from unknown group: -1001693817908
+[2025-05-11 09:53:31,737] [INFO] Update id=806485482 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,737] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,737] [INFO] Update id=806485483 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,737] [WARNING] Blocked message from unknown group: -1001443845940
+[2025-05-11 09:53:31,737] [INFO] Update id=806485484 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,737] [WARNING] Blocked message from unknown group: -1001876209191
+[2025-05-11 09:53:31,737] [INFO] Update id=806485485 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,737] [WARNING] Blocked message from unknown group: -1001876209191
+[2025-05-11 09:53:31,737] [INFO] Update id=806485486 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,738] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,738] [INFO] Update id=806485487 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,738] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,738] [INFO] Update id=806485488 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,738] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,738] [INFO] Update id=806485489 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,738] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,738] [INFO] Update id=806485490 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,738] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,738] [INFO] Update id=806485491 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,738] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,738] [INFO] Update id=806485492 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,738] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,738] [INFO] Update id=806485493 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,739] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,739] [INFO] Update id=806485494 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,739] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,739] [INFO] Update id=806485495 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,739] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,739] [INFO] Update id=806485496 is handled. Duration 14 ms by bot id=6971843804
+[2025-05-11 09:53:31,739] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,739] [INFO] Update id=806485497 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,739] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,739] [INFO] Update id=806485498 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,739] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,739] [INFO] Update id=806485499 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,739] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,739] [INFO] Update id=806485500 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,739] [WARNING] Blocked message from unknown group: -1001502100689
+[2025-05-11 09:53:31,739] [INFO] Update id=806485501 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,739] [WARNING] Blocked message from unknown group: -1001486290296
+[2025-05-11 09:53:31,740] [INFO] Update id=806485502 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,740] [WARNING] Blocked message from unknown group: -1001880038304
+[2025-05-11 09:53:31,740] [INFO] Update id=806485503 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,740] [WARNING] Blocked message from unknown group: -1001880038304
+[2025-05-11 09:53:31,740] [INFO] Update id=806485504 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,740] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,740] [INFO] Update id=806485505 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,740] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,740] [INFO] Update id=806485506 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,740] [WARNING] Blocked message from unknown group: -1001693817908
+[2025-05-11 09:53:31,740] [INFO] Update id=806485507 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,740] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,740] [INFO] Update id=806485508 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,740] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:53:31,740] [INFO] Update id=806485509 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,740] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,740] [INFO] Update id=806485510 is handled. Duration 13 ms by bot id=6971843804
+[2025-05-11 09:53:31,741] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,741] [INFO] Update id=806485511 is handled. Duration 12 ms by bot id=6971843804
+[2025-05-11 09:53:31,741] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,741] [INFO] Update id=806485512 is handled. Duration 12 ms by bot id=6971843804
+[2025-05-11 09:53:31,741] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,741] [INFO] Update id=806485513 is handled. Duration 12 ms by bot id=6971843804
+[2025-05-11 09:53:31,741] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,741] [INFO] Update id=806485514 is handled. Duration 12 ms by bot id=6971843804
+[2025-05-11 09:53:31,741] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,741] [INFO] Update id=806485515 is handled. Duration 12 ms by bot id=6971843804
+[2025-05-11 09:53:31,741] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:31,741] [INFO] Update id=806485516 is handled. Duration 12 ms by bot id=6971843804
+[2025-05-11 09:53:35,265] [INFO] User 1858164732 upserted successfully.
+[2025-05-11 09:53:35,734] [INFO] User 1858164732 started bot (/start)
+[2025-05-11 09:53:36,413] [INFO] Update id=806485517 is handled. Duration 2099 ms by bot id=6971843804
+[2025-05-11 09:53:48,147] [WARNING] Blocked message from unknown group: -1001463672780
+[2025-05-11 09:53:48,148] [INFO] Update id=806485518 is handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 09:53:50,222] [INFO] User 1858164732 upserted successfully.
+[2025-05-11 09:53:50,692] [INFO] User 1858164732 started bot (/start)
+[2025-05-11 09:53:51,036] [INFO] Update id=806485519 is handled. Duration 1776 ms by bot id=6971843804
+[2025-05-11 09:53:57,751] [WARNING] Received SIGINT signal
+[2025-05-11 09:53:57,752] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 09:53:57,752] [INFO] Polling stopped
+[2025-05-11 09:54:00,802] [INFO] Launching bot...
+[2025-05-11 09:54:04,599] [INFO] ✅ Translations loaded
+[2025-05-11 09:54:04,601] [INFO] 🚀 Bot is polling...
+[2025-05-11 09:54:04,601] [INFO] Start polling
+[2025-05-11 09:54:05,419] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 09:54:07,618] [INFO] User 1858164732 upserted successfully.
+[2025-05-11 09:54:08,086] [INFO] User 1858164732 started bot (/start)
+[2025-05-11 09:54:08,901] [INFO] Update id=806485520 is handled. Duration 2218 ms by bot id=6971843804
+[2025-05-11 09:56:34,826] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:56:34,830] [INFO] Update id=806485521 is handled. Duration 7 ms by bot id=6971843804
+[2025-05-11 09:56:34,830] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:56:34,830] [INFO] Update id=806485522 is handled. Duration 6 ms by bot id=6971843804
+[2025-05-11 09:59:35,349] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 09:59:35,351] [INFO] Update id=806485523 is handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 09:59:51,073] [WARNING] Received SIGINT signal
+[2025-05-11 09:59:51,075] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 09:59:51,075] [INFO] Polling stopped
+[2025-05-11 09:59:57,298] [INFO] Launching bot...
+[2025-05-11 10:00:00,585] [INFO] ✅ Translations loaded
+[2025-05-11 10:00:00,586] [INFO] 🚀 Bot is polling...
+[2025-05-11 10:00:00,587] [INFO] Start polling
+[2025-05-11 10:00:01,591] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:00:02,782] [INFO] User 1858164732 upserted successfully.
+[2025-05-11 10:00:03,250] [INFO] User 1858164732 started bot (/start)
+[2025-05-11 10:00:04,770] [INFO] Update id=806485524 is handled. Duration 2935 ms by bot id=6971843804
+[2025-05-11 10:00:07,597] [INFO] User 1858164732 language set to ru
+[2025-05-11 10:00:07,598] [INFO] User 1858164732 selected language: ru
+[2025-05-11 10:00:08,025] [INFO] Update id=806485525 is handled. Duration 1138 ms by bot id=6971843804
+[2025-05-11 10:00:16,949] [INFO] User 1858164732 upserted successfully.
+[2025-05-11 10:00:17,421] [INFO] User 1858164732 started bot (/start)
+[2025-05-11 10:00:17,649] [INFO] Update id=806485526 is handled. Duration 1639 ms by bot id=6971843804
+[2025-05-11 10:00:22,509] [INFO] User 1858164732 started support request process
+[2025-05-11 10:00:22,727] [INFO] Update id=806485527 is handled. Duration 939 ms by bot id=6971843804
+[2025-05-11 10:00:35,688] [INFO] User 2031010965 upserted successfully.
+[2025-05-11 10:00:36,156] [INFO] User 2031010965 started bot (/start)
+[2025-05-11 10:00:37,078] [INFO] Update id=806485528 is handled. Duration 2344 ms by bot id=6971843804
+[2025-05-11 10:00:40,826] [INFO] User 2031010965 language set to ru
+[2025-05-11 10:00:40,827] [INFO] User 2031010965 selected language: ru
+[2025-05-11 10:00:41,252] [INFO] Update id=806485529 is handled. Duration 1134 ms by bot id=6971843804
+[2025-05-11 10:01:27,562] [INFO] SupportRequest 13 created for user 1858164732
+[2025-05-11 10:01:28,782] [INFO] Message saved for request 13 from 1858164732
+[2025-05-11 10:01:28,783] [INFO] New support request created: req_id=13, user_id=1858164732
+[2025-05-11 10:01:29,230] [INFO] Update id=806485530 is handled. Duration 3335 ms by bot id=6971843804
+[2025-05-11 10:01:39,088] [INFO] Request 13 assigned to moderator 2031010965
+[2025-05-11 10:01:39,307] [INFO] Moderator 2031010965 assigned to request 13
+[2025-05-11 10:01:42,011] [INFO] Update id=806485531 is handled. Duration 4574 ms by bot id=6971843804
+[2025-05-11 10:01:49,411] [INFO] Update id=806485532 is handled. Duration 709 ms by bot id=6971843804
+[2025-05-11 10:02:00,225] [INFO] Update id=806485533 is handled. Duration 706 ms by bot id=6971843804
+[2025-05-11 10:02:13,180] [INFO] Request 13 closed.
+[2025-05-11 10:02:13,182] [INFO] Moderator 2031010965 closed request 13
+[2025-05-11 10:02:13,624] [INFO] Update id=806485534 is handled. Duration 2576 ms by bot id=6971843804
+[2025-05-11 10:05:43,538] [WARNING] Received SIGINT signal
+[2025-05-11 10:05:43,542] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:05:43,542] [INFO] Polling stopped
+[2025-05-11 10:05:49,040] [INFO] Launching bot...
+[2025-05-11 10:05:52,344] [INFO] ✅ Translations loaded
+[2025-05-11 10:05:52,344] [INFO] 🚀 Bot is polling...
+[2025-05-11 10:05:52,345] [INFO] Start polling
+[2025-05-11 10:05:53,331] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:05:56,312] [INFO] User 1858164732 started support request process
+[2025-05-11 10:05:57,002] [INFO] Update id=806485535 is handled. Duration 1396 ms by bot id=6971843804
+[2025-05-11 10:06:00,262] [INFO] SupportRequest 14 created for user 1858164732
+[2025-05-11 10:06:01,447] [INFO] Message saved for request 14 from 1858164732
+[2025-05-11 10:06:01,448] [INFO] New support request created: req_id=14, user_id=1858164732
+[2025-05-11 10:06:01,906] [INFO] Update id=806485536 is handled. Duration 3302 ms by bot id=6971843804
+[2025-05-11 10:06:05,383] [INFO] Request 14 assigned to moderator 2031010965
+[2025-05-11 10:06:05,575] [INFO] Moderator 2031010965 assigned to request 14
+[2025-05-11 10:06:07,903] [INFO] Update id=806485537 is handled. Duration 4181 ms by bot id=6971843804
+[2025-05-11 10:06:12,219] [INFO] Update id=806485538 is handled. Duration 706 ms by bot id=6971843804
+[2025-05-11 10:06:26,882] [INFO] Update id=806485539 is handled. Duration 712 ms by bot id=6971843804
+[2025-05-11 10:08:15,626] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 10:08:15,627] [INFO] Update id=806485540 is handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 10:08:24,048] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 10:08:24,049] [INFO] Update id=806485541 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 10:11:38,244] [WARNING] Received SIGINT signal
+[2025-05-11 10:11:38,247] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:11:38,248] [INFO] Polling stopped
+[2025-05-11 10:12:06,182] [INFO] Launching bot...
+[2025-05-11 10:12:09,499] [INFO] ✅ Translations loaded
+[2025-05-11 10:12:09,501] [INFO] 🚀 Bot is polling...
+[2025-05-11 10:12:09,502] [INFO] Start polling
+[2025-05-11 10:12:10,502] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:12:14,364] [INFO] User 1858164732 started support request process
+[2025-05-11 10:12:15,197] [INFO] Update id=806485542 is handled. Duration 1540 ms by bot id=6971843804
+[2025-05-11 10:12:20,006] [INFO] SupportRequest 15 created for user 1858164732
+[2025-05-11 10:12:21,182] [INFO] Message saved for request 15 from 1858164732
+[2025-05-11 10:12:21,183] [INFO] New support request created: req_id=15, user_id=1858164732
+[2025-05-11 10:12:21,624] [INFO] Update id=806485543 is handled. Duration 3271 ms by bot id=6971843804
+[2025-05-11 10:12:25,083] [INFO] Request 15 assigned to moderator 2031010965
+[2025-05-11 10:12:25,308] [INFO] Moderator 2031010965 assigned to request 15
+[2025-05-11 10:12:27,808] [INFO] Update id=806485544 is handled. Duration 4378 ms by bot id=6971843804
+[2025-05-11 10:12:31,807] [INFO] Update id=806485545 is handled. Duration 707 ms by bot id=6971843804
+[2025-05-11 10:12:39,435] [INFO] Update id=806485546 is handled. Duration 707 ms by bot id=6971843804
+[2025-05-11 10:14:52,686] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 10:14:52,687] [INFO] Update id=806485547 is handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 10:15:01,625] [WARNING] Received SIGINT signal
+[2025-05-11 10:15:01,627] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:15:01,627] [INFO] Polling stopped
+[2025-05-11 10:15:12,264] [INFO] Launching bot...
+[2025-05-11 10:15:15,554] [INFO] ✅ Translations loaded
+[2025-05-11 10:15:15,555] [INFO] 🚀 Bot is polling...
+[2025-05-11 10:15:15,556] [INFO] Start polling
+[2025-05-11 10:15:17,176] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:15:18,304] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 10:15:18,304] [INFO] Update id=806485548 is handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 10:15:49,204] [INFO] User 1858164732 started support request process
+[2025-05-11 10:15:50,041] [INFO] Update id=806485549 is handled. Duration 1544 ms by bot id=6971843804
+[2025-05-11 10:15:52,559] [INFO] SupportRequest 16 created for user 1858164732
+[2025-05-11 10:15:53,733] [INFO] Message saved for request 16 from 1858164732
+[2025-05-11 10:15:53,734] [INFO] New support request created: req_id=16, user_id=1858164732
+[2025-05-11 10:15:54,184] [INFO] Update id=806485550 is handled. Duration 3282 ms by bot id=6971843804
+[2025-05-11 10:15:57,084] [INFO] Request 16 assigned to moderator 2031010965
+[2025-05-11 10:15:57,307] [INFO] Moderator 2031010965 assigned to request 16
+[2025-05-11 10:15:59,808] [INFO] Update id=806485551 is handled. Duration 4373 ms by bot id=6971843804
+[2025-05-11 10:16:03,565] [INFO] Update id=806485552 is handled. Duration 703 ms by bot id=6971843804
+[2025-05-11 10:16:07,140] [INFO] Update id=806485553 is handled. Duration 701 ms by bot id=6971843804
+[2025-05-11 10:17:03,279] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 10:17:03,280] [INFO] Update id=806485554 is handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 10:20:11,479] [WARNING] Received SIGINT signal
+[2025-05-11 10:20:11,483] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:20:11,483] [INFO] Polling stopped
+[2025-05-11 10:20:14,558] [INFO] Launching bot...
+[2025-05-11 10:20:17,841] [INFO] ✅ Translations loaded
+[2025-05-11 10:20:17,842] [INFO] 🚀 Bot is polling...
+[2025-05-11 10:20:17,843] [INFO] Start polling
+[2025-05-11 10:20:18,850] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:20:19,792] [INFO] Update id=806485555 is handled. Duration 703 ms by bot id=6971843804
+[2025-05-11 10:20:25,608] [INFO] Update id=806485556 is handled. Duration 703 ms by bot id=6971843804
+[2025-05-11 10:20:31,313] [INFO] Update id=806485557 is handled. Duration 702 ms by bot id=6971843804
+[2025-05-11 10:21:08,543] [INFO] Update id=806485558 is handled. Duration 712 ms by bot id=6971843804
+[2025-05-11 10:24:49,664] [WARNING] Blocked message from unknown group: -1002061537331
+[2025-05-11 10:24:49,666] [INFO] Update id=806485559 is handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 10:30:16,440] [WARNING] Received SIGINT signal
+[2025-05-11 10:30:16,446] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:30:16,447] [INFO] Polling stopped
+[2025-05-11 10:30:20,750] [INFO] Launching bot...
+[2025-05-11 10:30:24,039] [INFO] ✅ Translations loaded
+[2025-05-11 10:30:24,041] [INFO] 🚀 Bot is polling...
+[2025-05-11 10:30:24,042] [INFO] Start polling
+[2025-05-11 10:30:25,030] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:30:35,754] [INFO] User 1858164732 started support request process
+[2025-05-11 10:30:36,599] [INFO] Update id=806485560 is handled. Duration 1563 ms by bot id=6971843804
+[2025-05-11 10:30:39,060] [INFO] SupportRequest 17 created for user 1858164732
+[2025-05-11 10:30:40,240] [INFO] Message saved for request 17 from 1858164732
+[2025-05-11 10:30:40,241] [INFO] New support request created: req_id=17, user_id=1858164732
+[2025-05-11 10:30:40,686] [INFO] Update id=806485561 is handled. Duration 3291 ms by bot id=6971843804
+[2025-05-11 10:30:43,754] [INFO] Request 17 assigned to moderator 2031010965
+[2025-05-11 10:30:43,975] [INFO] Moderator 2031010965 assigned to request 17
+[2025-05-11 10:30:46,474] [INFO] Update id=806485562 is handled. Duration 4482 ms by bot id=6971843804
+[2025-05-11 10:32:14,985] [WARNING] Received SIGINT signal
+[2025-05-11 10:32:14,988] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:32:14,989] [INFO] Polling stopped
+[2025-05-11 10:36:07,968] [INFO] Launching bot...
+[2025-05-11 10:36:11,391] [INFO] ✅ Translations loaded
+[2025-05-11 10:36:11,392] [INFO] 🚀 Bot is polling...
+[2025-05-11 10:36:11,393] [INFO] Start polling
+[2025-05-11 10:36:12,403] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:36:13,336] [INFO] User 1858164732 started support request process
+[2025-05-11 10:36:14,169] [INFO] Update id=806485563 is handled. Duration 1539 ms by bot id=6971843804
+[2025-05-11 10:36:17,106] [INFO] SupportRequest 18 created for user 1858164732
+[2025-05-11 10:36:18,285] [INFO] Message saved for request 18 from 1858164732
+[2025-05-11 10:36:18,286] [INFO] New support request created: req_id=18, user_id=1858164732
+[2025-05-11 10:36:18,740] [INFO] Update id=806485564 is handled. Duration 3289 ms by bot id=6971843804
+[2025-05-11 10:36:22,235] [INFO] Request 18 assigned to moderator 2031010965
+[2025-05-11 10:36:22,459] [INFO] Moderator 2031010965 assigned to request 18
+[2025-05-11 10:36:24,945] [INFO] Update id=806485565 is handled. Duration 4359 ms by bot id=6971843804
+[2025-05-11 10:38:07,754] [INFO] Update id=806485566 is handled. Duration 714 ms by bot id=6971843804
+[2025-05-11 10:39:38,286] [WARNING] Received SIGINT signal
+[2025-05-11 10:39:38,290] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:39:38,291] [INFO] Polling stopped
+[2025-05-11 10:39:46,866] [INFO] Launching bot...
+[2025-05-11 10:39:50,148] [INFO] ✅ Translations loaded
+[2025-05-11 10:39:50,149] [INFO] 🚀 Bot is polling...
+[2025-05-11 10:39:50,150] [INFO] Start polling
+[2025-05-11 10:39:50,943] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:40:31,219] [INFO] User 1858164732 started support request process
+[2025-05-11 10:40:32,038] [INFO] Update id=806485567 is handled. Duration 1528 ms by bot id=6971843804
+[2025-05-11 10:40:35,826] [INFO] SupportRequest 19 created for user 1858164732
+[2025-05-11 10:40:37,062] [INFO] Message saved for request 19 from 1858164732
+[2025-05-11 10:40:37,063] [INFO] New support request created: req_id=19, user_id=1858164732
+[2025-05-11 10:40:37,514] [INFO] Update id=806485568 is handled. Duration 3340 ms by bot id=6971843804
+[2025-05-11 10:40:39,975] [INFO] Request 19 assigned to moderator 2031010965
+[2025-05-11 10:40:40,243] [INFO] Moderator 2031010965 assigned to request 19
+[2025-05-11 10:40:42,876] [INFO] Update id=806485569 is handled. Duration 4549 ms by bot id=6971843804
+[2025-05-11 10:40:46,415] [INFO] Update id=806485570 is handled. Duration 704 ms by bot id=6971843804
+[2025-05-11 10:40:49,760] [INFO] Update id=806485571 is handled. Duration 701 ms by bot id=6971843804
+[2025-05-11 10:45:01,272] [WARNING] Received SIGINT signal
+[2025-05-11 10:45:01,275] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:45:01,276] [INFO] Polling stopped
+[2025-05-11 10:52:34,461] [INFO] Launching bot...
+[2025-05-11 10:52:37,781] [INFO] ✅ Translations loaded
+[2025-05-11 10:52:37,783] [INFO] 🚀 Bot is polling...
+[2025-05-11 10:52:37,784] [INFO] Start polling
+[2025-05-11 10:52:38,783] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:52:39,697] [INFO] Update id=806485572 is handled. Duration 706 ms by bot id=6971843804
+[2025-05-11 10:52:40,867] [INFO] Update id=806485573 is handled. Duration 1876 ms by bot id=6971843804
+[2025-05-11 10:52:48,482] [INFO] Update id=806485574 is handled. Duration 705 ms by bot id=6971843804
+[2025-05-11 10:57:19,274] [WARNING] Received SIGINT signal
+[2025-05-11 10:57:19,278] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:57:19,278] [INFO] Polling stopped
+[2025-05-11 10:57:23,678] [INFO] Launching bot...
+[2025-05-11 10:57:26,971] [INFO] ✅ Translations loaded
+[2025-05-11 10:57:26,972] [INFO] 🚀 Bot is polling...
+[2025-05-11 10:57:26,972] [INFO] Start polling
+[2025-05-11 10:57:27,948] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 10:57:28,859] [INFO] Update id=806485575 is handled. Duration 707 ms by bot id=6971843804
+[2025-05-11 10:57:32,216] [INFO] Update id=806485576 is handled. Duration 702 ms by bot id=6971843804
+[2025-05-11 11:03:10,518] [WARNING] Received SIGINT signal
+[2025-05-11 11:03:10,526] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:03:10,526] [INFO] Polling stopped
+[2025-05-11 11:03:14,026] [INFO] Launching bot...
+[2025-05-11 11:03:17,319] [INFO] ✅ Translations loaded
+[2025-05-11 11:03:17,320] [INFO] 🚀 Bot is polling...
+[2025-05-11 11:03:17,321] [INFO] Start polling
+[2025-05-11 11:03:18,183] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:03:19,067] [INFO] Update id=806485577 is handled. Duration 708 ms by bot id=6971843804
+[2025-05-11 11:03:22,991] [INFO] Update id=806485578 is handled. Duration 711 ms by bot id=6971843804
+[2025-05-11 11:03:28,084] [INFO] Update id=806485579 is handled. Duration 710 ms by bot id=6971843804
+[2025-05-11 11:03:30,512] [INFO] Update id=806485580 is handled. Duration 711 ms by bot id=6971843804
+[2025-05-11 11:04:15,088] [INFO] Update id=806485581 is handled. Duration 711 ms by bot id=6971843804
+[2025-05-11 11:12:13,179] [WARNING] Received SIGINT signal
+[2025-05-11 11:12:13,182] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:12:13,183] [INFO] Polling stopped
+[2025-05-11 11:12:17,491] [INFO] Launching bot...
+[2025-05-11 11:12:20,779] [INFO] ✅ Translations loaded
+[2025-05-11 11:12:20,782] [INFO] 🚀 Bot is polling...
+[2025-05-11 11:12:20,782] [INFO] Start polling
+[2025-05-11 11:12:21,796] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:12:22,010] [INFO] ✉️ [handle_private] private msg from 2031010965: 'ghbdtn'
+[2025-05-11 11:12:24,162] [INFO] Message saved for request 19 from 2031010965
+[2025-05-11 11:12:24,163] [INFO] Moderator reply saved: mod_id=2031010965, request_id=19
+[2025-05-11 11:12:24,987] [INFO] Update id=806485582 is handled. Duration 2979 ms by bot id=6971843804
+[2025-05-11 11:12:29,141] [INFO] ✉️ [handle_private] private msg from 1858164732: 'ghbdtn'
+[2025-05-11 11:12:31,256] [INFO] Message saved for request 19 from 1858164732
+[2025-05-11 11:12:31,256] [INFO] User message saved: user_id=1858164732, request_id=19
+[2025-05-11 11:12:31,474] [INFO] Update id=806485583 is handled. Duration 2334 ms by bot id=6971843804
+[2025-05-11 11:13:30,596] [INFO] User 1858164732 started support request process
+[2025-05-11 11:13:30,826] [INFO] Update id=806485584 is handled. Duration 942 ms by bot id=6971843804
+[2025-05-11 11:13:39,602] [INFO] SupportRequest 20 created for user 1858164732
+[2025-05-11 11:13:40,777] [INFO] Message saved for request 20 from 1858164732
+[2025-05-11 11:13:40,778] [INFO] New support request created: req_id=20, user_id=1858164732
+[2025-05-11 11:13:41,237] [INFO] Update id=806485585 is handled. Duration 3293 ms by bot id=6971843804
+[2025-05-11 11:13:43,623] [INFO] Request 20 assigned to moderator 2031010965
+[2025-05-11 11:13:43,844] [INFO] Moderator 2031010965 assigned to request 20
+[2025-05-11 11:13:46,502] [INFO] Update id=806485586 is handled. Duration 4564 ms by bot id=6971843804
+[2025-05-11 11:14:14,046] [INFO] ✉️ [handle_private] private msg from 2031010965: '🔒 Закрыть запрос'
+[2025-05-11 11:14:15,478] [ERROR] Error in get_active_request_by_moderator(2031010965): Multiple rows were found when one or none was required
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/database/crud.py", line 132, in get_active_request_by_moderator
+    return result.scalar_one_or_none()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/sqlalchemy/engine/result.py", line 1485, in scalar_one_or_none
+    return self._only_one_row(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/sqlalchemy/engine/result.py", line 805, in _only_one_row
+    raise exc.MultipleResultsFound(
+sqlalchemy.exc.MultipleResultsFound: Multiple rows were found when one or none was required
+
+[2025-05-11 11:14:15,478] [INFO] Update id=806485587 is handled. Duration 1434 ms by bot id=6971843804
+[2025-05-11 11:19:47,093] [WARNING] Received SIGINT signal
+[2025-05-11 11:19:47,097] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:19:47,097] [INFO] Polling stopped
+[2025-05-11 11:20:15,846] [INFO] Launching bot...
+[2025-05-11 11:20:19,248] [INFO] ✅ Translations loaded
+[2025-05-11 11:20:19,249] [INFO] 🚀 Bot is polling...
+[2025-05-11 11:20:19,250] [INFO] Start polling
+[2025-05-11 11:20:20,257] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:23:56,270] [INFO] Update id=806485588 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 11:25:48,718] [INFO] User 1858164732 started support request process
+[2025-05-11 11:25:49,551] [INFO] Update id=806485589 is handled. Duration 1561 ms by bot id=6971843804
+[2025-05-11 11:25:52,304] [INFO] SupportRequest 21 created for user 1858164732
+[2025-05-11 11:25:53,480] [INFO] Message saved for request 21 from 1858164732
+[2025-05-11 11:25:53,481] [INFO] New support request created: req_id=21, user_id=1858164732
+[2025-05-11 11:25:53,929] [INFO] Update id=806485590 is handled. Duration 3285 ms by bot id=6971843804
+[2025-05-11 11:26:01,018] [INFO] Request 21 assigned to moderator 2031010965
+[2025-05-11 11:26:01,275] [INFO] Moderator 2031010965 assigned to request 21
+[2025-05-11 11:26:03,793] [INFO] Update id=806485591 is handled. Duration 5135 ms by bot id=6971843804
+[2025-05-11 11:26:04,849] [INFO] User 1858164732 started support request process
+[2025-05-11 11:26:05,065] [INFO] Update id=806485592 is handled. Duration 921 ms by bot id=6971843804
+[2025-05-11 11:26:09,224] [INFO] SupportRequest 22 created for user 1858164732
+[2025-05-11 11:26:10,404] [INFO] Message saved for request 22 from 1858164732
+[2025-05-11 11:26:10,405] [INFO] New support request created: req_id=22, user_id=1858164732
+[2025-05-11 11:26:10,851] [INFO] Update id=806485593 is handled. Duration 3285 ms by bot id=6971843804
+[2025-05-11 11:26:12,858] [INFO] Update id=806485594 is not handled. Duration 1412 ms by bot id=6971843804
+[2025-05-11 11:26:12,859] [ERROR] Cause exception while process update id=806485594 by bot id=6971843804
+UnboundLocalError: local variable 'lang' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/middlewares/group_filter.py", line 29, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/handlers/moderator.py", line 25, in take_request
+    await callback.answer(await t("already_in_progress_mod", lang), show_alert=True)
+UnboundLocalError: local variable 'lang' referenced before assignment
+[2025-05-11 11:28:59,240] [WARNING] Received SIGINT signal
+[2025-05-11 11:28:59,244] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:28:59,244] [INFO] Polling stopped
+[2025-05-11 11:29:02,578] [INFO] Launching bot...
+[2025-05-11 11:29:05,891] [INFO] ✅ Translations loaded
+[2025-05-11 11:29:05,893] [INFO] 🚀 Bot is polling...
+[2025-05-11 11:29:05,894] [INFO] Start polling
+[2025-05-11 11:29:06,910] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:29:24,711] [WARNING] Non-moderator 1858164732 tried to take request
+[2025-05-11 11:29:25,510] [INFO] Update id=806485595 is handled. Duration 1511 ms by bot id=6971843804
+[2025-05-11 11:29:38,336] [INFO] Update id=806485596 is not handled. Duration 1521 ms by bot id=6971843804
+[2025-05-11 11:29:38,337] [ERROR] Cause exception while process update id=806485596 by bot id=6971843804
+UnboundLocalError: local variable 'lang' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/middlewares/group_filter.py", line 29, in __call__
+    return await handler(event, data)
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadimsimonenkov/Documents/SUPPORT_BOT/handlers/moderator.py", line 25, in take_request
+    await callback.answer(await t("already_in_progress_mod", lang), show_alert=True)
+UnboundLocalError: local variable 'lang' referenced before assignment
+[2025-05-11 11:30:18,758] [WARNING] Received SIGINT signal
+[2025-05-11 11:30:18,759] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:30:18,759] [INFO] Polling stopped
+[2025-05-11 11:30:21,978] [INFO] Launching bot...
+[2025-05-11 11:30:25,277] [INFO] ✅ Translations loaded
+[2025-05-11 11:30:25,279] [INFO] 🚀 Bot is polling...
+[2025-05-11 11:30:25,280] [INFO] Start polling
+[2025-05-11 11:30:26,083] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:30:28,510] [INFO] Update id=806485597 is handled. Duration 2227 ms by bot id=6971843804
+[2025-05-11 11:35:12,118] [INFO] Update id=806485598 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 11:40:17,661] [INFO] Update id=806485599 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 11:40:30,906] [INFO] Update id=806485600 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 11:40:45,232] [INFO] Update id=806485601 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 11:41:03,387] [INFO] Update id=806485602 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 11:41:13,442] [INFO] Update id=806485603 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 11:41:24,150] [INFO] Update id=806485604 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 11:41:31,465] [INFO] ✉️ [handle_private] private msg from 1858164732: None
+[2025-05-11 11:41:33,617] [INFO] Message saved for request 21 from 1858164732
+[2025-05-11 11:41:33,618] [INFO] User message saved: user_id=1858164732, request_id=21
+[2025-05-11 11:41:33,852] [INFO] Update id=806485605 is handled. Duration 2390 ms by bot id=6971843804
+[2025-05-11 11:41:41,168] [INFO] Update id=806485606 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 11:41:58,295] [INFO] ✉️ [handle_private] private msg from 2031010965: None
+[2025-05-11 11:42:00,425] [INFO] Message saved for request 21 from 2031010965
+[2025-05-11 11:42:00,425] [INFO] Moderator reply saved: mod_id=2031010965, request_id=21
+[2025-05-11 11:42:00,642] [INFO] Update id=806485607 is handled. Duration 2349 ms by bot id=6971843804
+[2025-05-11 11:45:25,132] [WARNING] Received SIGINT signal
+[2025-05-11 11:45:25,137] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:45:25,138] [INFO] Polling stopped
+[2025-05-11 11:47:05,700] [INFO] Launching bot...
+[2025-05-11 11:47:09,025] [INFO] ✅ Translations loaded
+[2025-05-11 11:47:09,026] [INFO] 🚀 Bot is polling...
+[2025-05-11 11:47:09,027] [INFO] Start polling
+[2025-05-11 11:47:10,033] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:47:10,951] [INFO] User 1858164732 started support request process
+[2025-05-11 11:47:11,802] [INFO] Update id=806485608 is handled. Duration 1561 ms by bot id=6971843804
+[2025-05-11 11:47:22,680] [INFO] SupportRequest 23 created for user 1858164732
+[2025-05-11 11:47:23,867] [INFO] Message saved for request 23 from 1858164732
+[2025-05-11 11:47:23,867] [INFO] New support request created: req_id=23, user_id=1858164732
+[2025-05-11 11:47:24,321] [INFO] Update id=806485609 is handled. Duration 3311 ms by bot id=6971843804
+[2025-05-11 11:47:29,245] [INFO] Request 23 assigned to moderator 2031010965
+[2025-05-11 11:47:29,469] [INFO] Moderator 2031010965 assigned to request 23
+[2025-05-11 11:47:32,048] [INFO] Update id=806485610 is handled. Duration 5178 ms by bot id=6971843804
+[2025-05-11 11:51:53,235] [WARNING] Received SIGINT signal
+[2025-05-11 11:51:53,237] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:51:53,237] [INFO] Polling stopped
+[2025-05-11 11:51:56,490] [INFO] Launching bot...
+[2025-05-11 11:51:59,772] [INFO] ✅ Translations loaded
+[2025-05-11 11:51:59,774] [INFO] 🚀 Bot is polling...
+[2025-05-11 11:51:59,775] [INFO] Start polling
+[2025-05-11 11:52:00,781] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:52:11,914] [INFO] ✉️ [handle_private] private msg from 2031010965: '🔒 Закрыть запрос'
+[2025-05-11 11:52:14,104] [INFO] Message saved for request 23 from 2031010965
+[2025-05-11 11:52:14,105] [INFO] Moderator reply saved: mod_id=2031010965, request_id=23
+[2025-05-11 11:52:14,938] [INFO] Update id=806485611 is handled. Duration 3024 ms by bot id=6971843804
+[2025-05-11 11:52:36,818] [INFO] ✉️ [handle_private] private msg from 2031010965: '🔒 Закрыть запрос'
+[2025-05-11 11:52:38,941] [INFO] Message saved for request 23 from 2031010965
+[2025-05-11 11:52:38,942] [INFO] Moderator reply saved: mod_id=2031010965, request_id=23
+[2025-05-11 11:52:39,203] [INFO] Update id=806485612 is handled. Duration 2388 ms by bot id=6971843804
+[2025-05-11 11:54:38,556] [WARNING] Received SIGINT signal
+[2025-05-11 11:54:38,558] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:54:38,559] [INFO] Polling stopped
+[2025-05-11 11:54:42,654] [INFO] Launching bot...
+[2025-05-11 11:54:45,930] [INFO] ✅ Translations loaded
+[2025-05-11 11:54:45,932] [INFO] 🚀 Bot is polling...
+[2025-05-11 11:54:45,933] [INFO] Start polling
+[2025-05-11 11:54:46,792] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 11:54:51,504] [INFO] Request 23 closed.
+[2025-05-11 11:54:51,506] [INFO] Moderator 2031010965 closed request 23
+[2025-05-11 11:54:52,520] [INFO] Update id=806485613 is handled. Duration 3132 ms by bot id=6971843804
+[2025-05-11 11:55:17,441] [INFO] Update id=806485614 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 11:55:20,416] [INFO] Update id=806485615 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 11:55:25,182] [INFO] Update id=806485616 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 11:56:55,027] [INFO] Update id=806485617 is handled. Duration 715 ms by bot id=6971843804
+[2025-05-11 12:02:21,595] [INFO] Update id=806485618 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 12:08:16,989] [WARNING] Received SIGINT signal
+[2025-05-11 12:08:16,993] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 12:08:16,994] [INFO] Polling stopped
+[2025-05-11 12:08:21,939] [INFO] Launching bot...
+[2025-05-11 12:08:25,220] [INFO] ✅ Translations loaded
+[2025-05-11 12:08:25,223] [INFO] 🚀 Bot is polling...
+[2025-05-11 12:08:25,223] [INFO] Start polling
+[2025-05-11 12:08:26,831] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 12:08:29,124] [INFO] Update id=806485619 is handled. Duration 2087 ms by bot id=6971843804
+[2025-05-11 12:08:32,786] [INFO] Update id=806485620 is handled. Duration 708 ms by bot id=6971843804
+[2025-05-11 12:08:49,953] [INFO] Update id=806485621 is handled. Duration 704 ms by bot id=6971843804
+[2025-05-11 12:09:28,118] [INFO] Update id=806485622 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 12:09:59,112] [WARNING] Received SIGINT signal
+[2025-05-11 12:09:59,114] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 12:09:59,114] [INFO] Polling stopped
+[2025-05-11 12:10:15,287] [INFO] Launching bot...
+[2025-05-11 12:10:18,579] [INFO] ✅ Translations loaded
+[2025-05-11 12:10:18,580] [INFO] 🚀 Bot is polling...
+[2025-05-11 12:10:18,581] [INFO] Start polling
+[2025-05-11 12:10:19,603] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 12:10:26,149] [INFO] User 1858164732 upserted successfully.
+[2025-05-11 12:10:26,616] [INFO] User 1858164732 started bot (/start)
+[2025-05-11 12:10:27,427] [INFO] Update id=806485623 is handled. Duration 2229 ms by bot id=6971843804
+[2025-05-11 12:10:32,239] [INFO] Update id=806485624 is handled. Duration 1648 ms by bot id=6971843804
+[2025-05-11 12:10:34,758] [INFO] Update id=806485625 is handled. Duration 707 ms by bot id=6971843804
+[2025-05-11 12:11:49,280] [INFO] Update id=806485626 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:11:53,962] [INFO] Update id=806485627 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 12:24:32,876] [INFO] Update id=806485628 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 12:27:38,862] [WARNING] Received SIGINT signal
+[2025-05-11 12:27:38,865] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 12:27:38,866] [INFO] Polling stopped
+[2025-05-11 12:29:21,507] [INFO] Launching bot...
+[2025-05-11 12:29:24,809] [INFO] ✅ Translations loaded
+[2025-05-11 12:31:40,429] [INFO] Launching bot...
+[2025-05-11 12:31:43,727] [INFO] ✅ Translations loaded
+[2025-05-11 12:33:58,427] [INFO] Launching bot...
+[2025-05-11 12:34:01,720] [INFO] ✅ Translations loaded
+[2025-05-11 12:34:56,301] [INFO] Launching bot...
+[2025-05-11 12:34:59,677] [INFO] ✅ Translations loaded
+[2025-05-11 12:37:45,818] [INFO] Launching bot...
+[2025-05-11 12:37:49,111] [INFO] ✅ Translations loaded
+[2025-05-11 12:38:03,672] [INFO] Launching bot...
+[2025-05-11 12:38:06,974] [INFO] ✅ Translations loaded
+[2025-05-11 12:38:06,977] [INFO] 🚀 Bot is polling...
+[2025-05-11 12:38:06,977] [INFO] Start polling
+[2025-05-11 12:38:08,481] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 12:38:08,810] [INFO] Update id=806485629 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:38:08,810] [INFO] Update id=806485630 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:38:08,810] [INFO] Update id=806485631 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:38:08,810] [INFO] Update id=806485632 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:38:08,810] [INFO] Update id=806485633 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:38:08,810] [INFO] Update id=806485634 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:38:08,810] [INFO] Update id=806485635 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:38:08,810] [INFO] Update id=806485636 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:38:08,810] [INFO] Update id=806485637 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:38:13,271] [INFO] User 1858164732 upserted successfully.
+[2025-05-11 12:38:13,737] [INFO] User 1858164732 started bot (/start)
+[2025-05-11 12:38:14,419] [INFO] Update id=806485638 is handled. Duration 2091 ms by bot id=6971843804
+[2025-05-11 12:38:17,532] [INFO] Update id=806485639 is handled. Duration 1667 ms by bot id=6971843804
+[2025-05-11 12:38:21,695] [INFO] SupportRequest 24 created for user 1858164732
+[2025-05-11 12:38:22,886] [INFO] Message saved for request 24 from 1858164732
+[2025-05-11 12:38:22,888] [INFO] New support request created: req_id=24, user_id=1858164732
+[2025-05-11 12:38:23,264] [INFO] Update id=806485640 is handled. Duration 3218 ms by bot id=6971843804
+[2025-05-11 12:38:32,126] [INFO] Request 24 assigned to moderator 2031010965
+[2025-05-11 12:38:32,308] [INFO] Moderator 2031010965 assigned to request 24
+[2025-05-11 12:38:34,622] [INFO] Update id=806485641 is handled. Duration 4864 ms by bot id=6971843804
+[2025-05-11 12:38:48,840] [INFO] Update id=806485642 is handled. Duration 707 ms by bot id=6971843804
+[2025-05-11 12:38:55,088] [INFO] Update id=806485643 is handled. Duration 704 ms by bot id=6971843804
+[2025-05-11 12:38:59,046] [INFO] Update id=806485644 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:39:02,064] [INFO] Update id=806485645 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:39:40,256] [INFO] Update id=806485646 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:50:25,242] [INFO] Update id=806485647 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 12:55:40,116] [INFO] Update id=806485648 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 12:55:40,116] [INFO] Update id=806485649 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:55:40,116] [INFO] Update id=806485650 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 12:55:59,843] [INFO] Update id=806485651 is handled. Duration 759 ms by bot id=6971843804
+[2025-05-11 13:00:26,453] [INFO] Update id=806485652 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 13:10:18,764] [INFO] Update id=806485653 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 13:18:49,967] [WARNING] Received SIGINT signal
+[2025-05-11 13:18:49,971] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:18:49,972] [INFO] Polling stopped
+[2025-05-11 13:18:56,582] [INFO] Launching bot...
+[2025-05-11 13:19:00,116] [INFO] ✅ Translations loaded
+[2025-05-11 13:19:00,119] [INFO] 🚀 Bot is polling...
+[2025-05-11 13:19:00,119] [INFO] Start polling
+[2025-05-11 13:19:01,089] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:19:04,339] [INFO] Update id=806485654 is handled. Duration 705 ms by bot id=6971843804
+[2025-05-11 13:19:30,899] [INFO] Update id=806485655 is handled. Duration 709 ms by bot id=6971843804
+[2025-05-11 13:20:09,248] [WARNING] Received SIGINT signal
+[2025-05-11 13:20:09,249] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:20:09,249] [INFO] Polling stopped
+[2025-05-11 13:20:12,546] [INFO] Launching bot...
+[2025-05-11 13:20:15,833] [INFO] ✅ Translations loaded
+[2025-05-11 13:20:15,834] [INFO] 🚀 Bot is polling...
+[2025-05-11 13:20:15,834] [INFO] Start polling
+[2025-05-11 13:20:16,616] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:21:00,045] [INFO] Update id=806485656 is handled. Duration 752 ms by bot id=6971843804
+[2025-05-11 13:21:35,754] [INFO] Update id=806485657 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 13:21:43,162] [INFO] Update id=806485658 is handled. Duration 710 ms by bot id=6971843804
+[2025-05-11 13:22:20,447] [INFO] User 1858164732 upserted successfully.
+[2025-05-11 13:22:20,914] [INFO] User 1858164732 started bot (/start)
+[2025-05-11 13:22:21,595] [INFO] Update id=806485659 is handled. Duration 2091 ms by bot id=6971843804
+[2025-05-11 13:22:24,649] [INFO] Update id=806485660 is handled. Duration 1631 ms by bot id=6971843804
+[2025-05-11 13:22:35,795] [INFO] SupportRequest 25 created for user 1858164732
+[2025-05-11 13:22:36,972] [INFO] Message saved for request 25 from 1858164732
+[2025-05-11 13:22:36,973] [INFO] New support request created: req_id=25, user_id=1858164732
+[2025-05-11 13:22:37,421] [INFO] Update id=806485661 is handled. Duration 3284 ms by bot id=6971843804
+[2025-05-11 13:22:42,043] [INFO] Request 25 assigned to moderator 2031010965
+[2025-05-11 13:22:42,239] [INFO] Moderator 2031010965 assigned to request 25
+[2025-05-11 13:22:44,606] [INFO] Update id=806485662 is handled. Duration 4920 ms by bot id=6971843804
+[2025-05-11 13:22:47,648] [INFO] Update id=806485663 is handled. Duration 705 ms by bot id=6971843804
+[2025-05-11 13:23:05,371] [WARNING] Received SIGINT signal
+[2025-05-11 13:23:05,372] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:23:05,372] [INFO] Polling stopped
+[2025-05-11 13:23:08,636] [INFO] Launching bot...
+[2025-05-11 13:23:11,918] [INFO] ✅ Translations loaded
+[2025-05-11 13:23:11,920] [INFO] 🚀 Bot is polling...
+[2025-05-11 13:23:11,921] [INFO] Start polling
+[2025-05-11 13:23:12,734] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:23:13,638] [INFO] Update id=806485664 is handled. Duration 703 ms by bot id=6971843804
+[2025-05-11 13:23:18,130] [INFO] Update id=806485665 is handled. Duration 700 ms by bot id=6971843804
+[2025-05-11 13:26:05,225] [WARNING] Received SIGINT signal
+[2025-05-11 13:26:05,233] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:26:05,233] [INFO] Polling stopped
+[2025-05-11 13:26:09,684] [INFO] Launching bot...
+[2025-05-11 13:26:12,957] [INFO] ✅ Translations loaded
+[2025-05-11 13:26:12,959] [INFO] 🚀 Bot is polling...
+[2025-05-11 13:26:12,960] [INFO] Start polling
+[2025-05-11 13:26:13,828] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:26:15,590] [INFO] ✉️ [handle_private] private msg from 2031010965: 'mjjkj'
+[2025-05-11 13:26:17,707] [INFO] Message saved for request 25 from 2031010965
+[2025-05-11 13:26:17,708] [INFO] Moderator reply saved: mod_id=2031010965, request_id=25
+[2025-05-11 13:26:18,521] [INFO] Update id=806485666 is handled. Duration 2932 ms by bot id=6971843804
+[2025-05-11 13:26:22,861] [INFO] ✉️ [handle_private] private msg from 1858164732: 'рпарп'
+[2025-05-11 13:26:24,966] [INFO] Message saved for request 25 from 1858164732
+[2025-05-11 13:26:24,970] [INFO] User message saved: user_id=1858164732, request_id=25
+[2025-05-11 13:26:25,156] [INFO] Update id=806485667 is handled. Duration 2297 ms by bot id=6971843804
+[2025-05-11 13:26:28,153] [INFO] ✉️ [handle_private] private msg from 2031010965: '🔒 Закрыть запрос'
+[2025-05-11 13:26:30,270] [INFO] Message saved for request 25 from 2031010965
+[2025-05-11 13:26:30,271] [INFO] Moderator reply saved: mod_id=2031010965, request_id=25
+[2025-05-11 13:26:30,487] [INFO] Update id=806485668 is handled. Duration 2335 ms by bot id=6971843804
+[2025-05-11 13:27:45,813] [INFO] Update id=806485669 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 13:27:46,073] [INFO] Update id=806485670 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 13:34:43,791] [WARNING] Received SIGINT signal
+[2025-05-11 13:34:43,794] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:34:43,795] [INFO] Polling stopped
+[2025-05-11 13:34:47,671] [INFO] Launching bot...
+[2025-05-11 13:34:50,945] [INFO] ✅ Translations loaded
+[2025-05-11 13:34:50,946] [INFO] 🚀 Bot is polling...
+[2025-05-11 13:34:50,946] [INFO] Start polling
+[2025-05-11 13:34:52,589] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:34:54,913] [INFO] Message saved for request 25 from 2031010965
+[2025-05-11 13:34:54,913] [INFO] Moderator reply saved: mod_id=2031010965, request_id=25
+[2025-05-11 13:34:55,721] [INFO] Update id=806485671 is handled. Duration 2925 ms by bot id=6971843804
+[2025-05-11 13:35:02,127] [INFO] Message saved for request 25 from 1858164732
+[2025-05-11 13:35:02,128] [INFO] User message saved: user_id=1858164732, request_id=25
+[2025-05-11 13:35:02,349] [INFO] Update id=806485672 is handled. Duration 2339 ms by bot id=6971843804
+[2025-05-11 13:35:15,566] [INFO] Request 25 closed.
+[2025-05-11 13:35:15,567] [INFO] Moderator 2031010965 closed request 25
+[2025-05-11 13:35:16,006] [INFO] Update id=806485673 is handled. Duration 2793 ms by bot id=6971843804
+[2025-05-11 13:35:20,340] [INFO] User 1858164732 started support request process
+[2025-05-11 13:35:20,556] [INFO] Update id=806485674 is handled. Duration 917 ms by bot id=6971843804
+[2025-05-11 13:35:24,146] [INFO] SupportRequest 26 created for user 1858164732
+[2025-05-11 13:35:25,323] [INFO] Message saved for request 26 from 1858164732
+[2025-05-11 13:35:25,324] [INFO] New support request created: req_id=26, user_id=1858164732
+[2025-05-11 13:35:25,778] [INFO] Update id=806485675 is handled. Duration 3279 ms by bot id=6971843804
+[2025-05-11 13:35:32,880] [INFO] Request 26 assigned to moderator 2031010965
+[2025-05-11 13:35:33,195] [INFO] Moderator 2031010965 assigned to request 26
+[2025-05-11 13:35:35,948] [INFO] Update id=806485676 is handled. Duration 5462 ms by bot id=6971843804
+[2025-05-11 13:35:41,181] [INFO] Message saved for request 26 from 1858164732
+[2025-05-11 13:35:41,183] [INFO] User message saved: user_id=1858164732, request_id=26
+[2025-05-11 13:35:41,399] [INFO] Update id=806485677 is handled. Duration 2357 ms by bot id=6971843804
+[2025-05-11 13:35:44,596] [INFO] Message saved for request 26 from 2031010965
+[2025-05-11 13:35:44,596] [INFO] Moderator reply saved: mod_id=2031010965, request_id=26
+[2025-05-11 13:35:44,809] [INFO] Update id=806485678 is handled. Duration 2325 ms by bot id=6971843804
+[2025-05-11 13:35:51,748] [INFO] Request 26 closed.
+[2025-05-11 13:35:51,749] [INFO] Moderator 2031010965 closed request 26
+[2025-05-11 13:35:52,179] [INFO] Update id=806485679 is handled. Duration 2644 ms by bot id=6971843804
+[2025-05-11 13:37:37,785] [INFO] Update id=806485680 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 13:37:49,617] [INFO] Update id=806485681 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 13:38:00,492] [WARNING] Received SIGINT signal
+[2025-05-11 13:38:00,495] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:38:00,495] [INFO] Polling stopped
+[2025-05-11 13:38:05,987] [INFO] Launching bot...
+[2025-05-11 13:38:09,383] [INFO] ✅ Translations loaded
+[2025-05-11 13:38:09,384] [INFO] 🚀 Bot is polling...
+[2025-05-11 13:38:09,385] [INFO] Start polling
+[2025-05-11 13:38:11,052] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:38:15,222] [INFO] User 1858164732 started support request process
+[2025-05-11 13:38:16,045] [INFO] Update id=806485682 is handled. Duration 1529 ms by bot id=6971843804
+[2025-05-11 13:38:19,788] [INFO] SupportRequest 27 created for user 1858164732
+[2025-05-11 13:38:20,964] [INFO] Message saved for request 27 from 1858164732
+[2025-05-11 13:38:20,965] [INFO] New support request created: req_id=27, user_id=1858164732
+[2025-05-11 13:38:21,582] [INFO] Update id=806485683 is handled. Duration 3564 ms by bot id=6971843804
+[2025-05-11 13:38:27,996] [INFO] Request 27 assigned to moderator 2031010965
+[2025-05-11 13:38:28,219] [INFO] Moderator 2031010965 assigned to request 27
+[2025-05-11 13:38:30,821] [INFO] Update id=806485684 is handled. Duration 5192 ms by bot id=6971843804
+[2025-05-11 13:38:34,443] [INFO] Message saved for request 27 from 2031010965
+[2025-05-11 13:38:34,444] [INFO] Moderator reply saved: mod_id=2031010965, request_id=27
+[2025-05-11 13:38:34,666] [INFO] Update id=806485685 is handled. Duration 2341 ms by bot id=6971843804
+[2025-05-11 13:38:38,749] [INFO] Message saved for request 27 from 1858164732
+[2025-05-11 13:38:38,750] [INFO] User message saved: user_id=1858164732, request_id=27
+[2025-05-11 13:38:38,994] [INFO] Update id=806485686 is handled. Duration 2363 ms by bot id=6971843804
+[2025-05-11 13:38:45,481] [INFO] Message saved for request 27 from 1858164732
+[2025-05-11 13:38:45,481] [INFO] User message saved: user_id=1858164732, request_id=27
+[2025-05-11 13:38:45,707] [INFO] Update id=806485687 is handled. Duration 2338 ms by bot id=6971843804
+[2025-05-11 13:38:47,904] [INFO] Message saved for request 27 from 1858164732
+[2025-05-11 13:38:47,904] [INFO] User message saved: user_id=1858164732, request_id=27
+[2025-05-11 13:38:48,124] [INFO] Update id=806485688 is handled. Duration 3501 ms by bot id=6971843804
+[2025-05-11 13:38:48,751] [INFO] Message saved for request 27 from 1858164732
+[2025-05-11 13:38:48,752] [INFO] User message saved: user_id=1858164732, request_id=27
+[2025-05-11 13:38:48,972] [INFO] Update id=806485689 is handled. Duration 3503 ms by bot id=6971843804
+[2025-05-11 13:38:53,800] [INFO] Message saved for request 27 from 2031010965
+[2025-05-11 13:38:53,801] [INFO] Moderator reply saved: mod_id=2031010965, request_id=27
+[2025-05-11 13:38:54,059] [INFO] Update id=806485690 is handled. Duration 2369 ms by bot id=6971843804
+[2025-05-11 13:38:55,328] [INFO] Request 27 closed.
+[2025-05-11 13:38:55,329] [INFO] Moderator 2031010965 closed request 27
+[2025-05-11 13:38:55,795] [INFO] Update id=806485691 is handled. Duration 2581 ms by bot id=6971843804
+[2025-05-11 13:40:42,667] [INFO] Update id=806485692 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 13:42:07,675] [WARNING] Received SIGINT signal
+[2025-05-11 13:42:07,679] [INFO] Polling stopped for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:42:07,679] [INFO] Polling stopped
+[2025-05-11 13:42:12,047] [INFO] Launching bot...
+[2025-05-11 13:42:13,033] [INFO] ✅ Translations loaded
+[2025-05-11 13:42:13,034] [INFO] 🚀 Bot is polling...
+[2025-05-11 13:42:13,034] [INFO] Start polling
+[2025-05-11 13:42:13,672] [INFO] Run polling for bot @gmoderator_bot id=6971843804 - 'Grand Moderator'
+[2025-05-11 13:42:21,846] [INFO] User 1858164732 started support request process
+[2025-05-11 13:42:22,509] [INFO] Update id=806485693 is handled. Duration 876 ms by bot id=6971843804
+[2025-05-11 13:42:25,186] [INFO] SupportRequest 28 created for user 1858164732
+[2025-05-11 13:42:25,541] [INFO] Message saved for request 28 from 1858164732
+[2025-05-11 13:42:25,542] [INFO] New support request created: req_id=28, user_id=1858164732
+[2025-05-11 13:42:25,910] [INFO] Update id=806485694 is handled. Duration 1229 ms by bot id=6971843804
+[2025-05-11 13:42:31,396] [INFO] Request 28 assigned to moderator 2031010965
+[2025-05-11 13:42:31,601] [INFO] Moderator 2031010965 assigned to request 28
+[2025-05-11 13:42:32,933] [INFO] Update id=806485695 is handled. Duration 2258 ms by bot id=6971843804
+[2025-05-11 13:42:39,622] [INFO] Message saved for request 28 from 2031010965
+[2025-05-11 13:42:39,623] [INFO] Moderator reply saved: mod_id=2031010965, request_id=28
+[2025-05-11 13:42:39,829] [INFO] Update id=806485696 is handled. Duration 850 ms by bot id=6971843804
+[2025-05-11 13:42:42,589] [INFO] Message saved for request 28 from 1858164732
+[2025-05-11 13:42:42,590] [INFO] User message saved: user_id=1858164732, request_id=28
+[2025-05-11 13:42:42,766] [INFO] Update id=806485697 is handled. Duration 815 ms by bot id=6971843804
+[2025-05-11 13:42:43,293] [INFO] Message saved for request 28 from 2031010965
+[2025-05-11 13:42:43,294] [INFO] Moderator reply saved: mod_id=2031010965, request_id=28
+[2025-05-11 13:42:43,470] [INFO] Update id=806485698 is handled. Duration 813 ms by bot id=6971843804
+[2025-05-11 13:42:44,174] [INFO] Message saved for request 28 from 1858164732
+[2025-05-11 13:42:44,175] [INFO] User message saved: user_id=1858164732, request_id=28
+[2025-05-11 13:42:44,353] [INFO] Update id=806485699 is handled. Duration 812 ms by bot id=6971843804
+[2025-05-11 13:42:51,358] [INFO] Message saved for request 28 from 2031010965
+[2025-05-11 13:42:51,359] [INFO] Moderator reply saved: mod_id=2031010965, request_id=28
+[2025-05-11 13:42:51,541] [INFO] Update id=806485700 is handled. Duration 818 ms by bot id=6971843804
+[2025-05-11 13:42:51,881] [INFO] Message saved for request 28 from 1858164732
+[2025-05-11 13:42:51,882] [INFO] User message saved: user_id=1858164732, request_id=28
+[2025-05-11 13:42:52,061] [INFO] Update id=806485701 is handled. Duration 1179 ms by bot id=6971843804
+[2025-05-11 13:42:55,874] [INFO] Message saved for request 28 from 2031010965
+[2025-05-11 13:42:55,874] [INFO] Moderator reply saved: mod_id=2031010965, request_id=28
+[2025-05-11 13:42:56,043] [INFO] Message saved for request 28 from 1858164732
+[2025-05-11 13:42:56,044] [INFO] User message saved: user_id=1858164732, request_id=28
+[2025-05-11 13:42:56,053] [INFO] Update id=806485702 is handled. Duration 815 ms by bot id=6971843804
+[2025-05-11 13:42:56,699] [INFO] Update id=806485703 is handled. Duration 1302 ms by bot id=6971843804
+[2025-05-11 13:43:04,521] [INFO] Request 28 closed.
+[2025-05-11 13:43:04,523] [INFO] Moderator 2031010965 closed request 28
+[2025-05-11 13:43:04,900] [INFO] Update id=806485704 is handled. Duration 1025 ms by bot id=6971843804
+[2025-05-11 13:43:54,532] [INFO] Update id=806485705 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 14:27:57,273] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 14:27:57,275] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 14:27:58,932] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 14:27:58,938] [INFO] Update id=806485706 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 14:27:58,938] [INFO] Update id=806485707 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 14:27:58,938] [INFO] Update id=806485708 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 15:14:56,010] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 15:14:56,013] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 15:14:57,737] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 15:14:57,742] [INFO] Update id=806485709 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 15:14:57,743] [INFO] Update id=806485710 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 15:14:57,743] [INFO] Update id=806485711 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 15:14:57,743] [INFO] Update id=806485712 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 15:58:27,945] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 15:58:27,946] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 15:58:29,600] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 15:58:29,607] [INFO] Update id=806485713 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 15:58:29,607] [INFO] Update id=806485714 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 15:58:29,607] [INFO] Update id=806485715 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 15:58:29,607] [INFO] Update id=806485716 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 15:58:29,607] [INFO] Update id=806485717 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 15:58:29,607] [INFO] Update id=806485718 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 16:29:51,620] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 16:29:51,621] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 16:29:53,249] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 16:29:53,257] [INFO] Update id=806485719 is not handled. Duration 6 ms by bot id=6971843804
+[2025-05-11 16:29:53,257] [INFO] Update id=806485720 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 16:29:53,257] [INFO] Update id=806485721 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 16:29:53,257] [INFO] Update id=806485722 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 16:29:53,257] [INFO] Update id=806485723 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 16:29:53,257] [INFO] Update id=806485724 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 16:29:53,258] [INFO] Update id=806485725 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 16:29:53,258] [INFO] Update id=806485726 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 16:29:53,258] [INFO] Update id=806485727 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 16:30:14,194] [INFO] Update id=806485728 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-11 17:14:44,968] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 17:14:44,970] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 17:14:46,608] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 17:14:46,614] [INFO] Update id=806485729 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 17:14:46,614] [INFO] Update id=806485730 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 17:14:46,614] [INFO] Update id=806485731 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 17:14:46,614] [INFO] Update id=806485732 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 17:14:46,614] [INFO] Update id=806485733 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 17:14:46,614] [INFO] Update id=806485734 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 17:14:46,614] [INFO] Update id=806485735 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 18:00:26,372] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 18:00:26,374] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 18:00:28,023] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 18:00:28,029] [INFO] Update id=806485736 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 18:00:28,029] [INFO] Update id=806485737 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 18:00:28,029] [INFO] Update id=806485738 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 18:00:28,029] [INFO] Update id=806485739 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 18:00:28,029] [INFO] Update id=806485740 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 18:32:15,777] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 18:32:15,779] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 18:33:07,233] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 19:06:23,668] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 19:06:23,669] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 19:06:25,466] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 19:06:25,474] [INFO] Update id=806485741 is not handled. Duration 6 ms by bot id=6971843804
+[2025-05-11 19:06:25,475] [INFO] Update id=806485742 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 19:06:25,475] [INFO] Update id=806485743 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 19:06:25,475] [INFO] Update id=806485744 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 19:06:25,475] [INFO] Update id=806485745 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 19:06:25,475] [INFO] Update id=806485746 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 19:06:25,475] [INFO] Update id=806485747 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 19:40:20,286] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 19:40:20,287] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 19:40:22,132] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 19:40:22,136] [INFO] Update id=806485748 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 19:40:22,137] [INFO] Update id=806485749 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 19:40:22,137] [INFO] Update id=806485750 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 19:40:22,137] [INFO] Update id=806485751 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 19:40:22,137] [INFO] Update id=806485752 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 20:27:27,286] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 20:27:27,287] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 20:27:28,915] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 20:27:28,920] [INFO] Update id=806485753 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 20:27:28,920] [INFO] Update id=806485754 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 20:27:28,920] [INFO] Update id=806485755 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 20:27:28,920] [INFO] Update id=806485756 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 20:27:28,920] [INFO] Update id=806485757 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 20:27:28,921] [INFO] Update id=806485758 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 20:27:28,921] [INFO] Update id=806485759 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 21:04:12,032] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 21:04:12,033] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 21:04:13,664] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 21:04:13,672] [INFO] Update id=806485760 is not handled. Duration 6 ms by bot id=6971843804
+[2025-05-11 21:04:13,672] [INFO] Update id=806485761 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 21:04:13,672] [INFO] Update id=806485762 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 21:04:13,672] [INFO] Update id=806485763 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 21:04:13,672] [INFO] Update id=806485764 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 21:04:13,672] [INFO] Update id=806485765 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 21:04:13,672] [INFO] Update id=806485766 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 21:04:13,672] [INFO] Update id=806485767 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 21:04:13,672] [INFO] Update id=806485768 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 21:04:13,672] [INFO] Update id=806485769 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 21:49:44,328] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 21:49:44,330] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 21:49:45,966] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 21:49:45,972] [INFO] Update id=806485770 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 21:49:45,972] [INFO] Update id=806485771 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 21:49:45,973] [INFO] Update id=806485772 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 21:49:45,973] [INFO] Update id=806485773 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 21:49:45,973] [INFO] Update id=806485774 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 21:49:45,973] [INFO] Update id=806485775 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 21:49:45,973] [INFO] Update id=806485776 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 21:49:45,973] [INFO] Update id=806485777 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 21:49:45,973] [INFO] Update id=806485778 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 21:49:45,973] [INFO] Update id=806485779 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-11 22:21:20,663] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 22:21:20,665] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 22:21:22,304] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-11 22:21:22,309] [INFO] Update id=806485780 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-11 22:21:22,309] [INFO] Update id=806485781 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-11 23:06:19,774] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 23:06:19,775] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-11 23:52:04,246] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-11 23:52:04,248] [WARNING] Sleep for 1.420624 seconds and try again... (tryings = 1, bot id = 6971843804)
+[2025-05-11 23:59:01,715] [INFO] Connection established (tryings = 2, bot id = 6971843804)
+[2025-05-11 23:59:01,725] [INFO] Update id=806485782 is not handled. Duration 7 ms by bot id=6971843804
+[2025-05-11 23:59:01,725] [INFO] Update id=806485783 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 23:59:01,725] [INFO] Update id=806485784 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 23:59:01,725] [INFO] Update id=806485785 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 23:59:01,725] [INFO] Update id=806485786 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 23:59:01,725] [INFO] Update id=806485787 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 23:59:01,725] [INFO] Update id=806485788 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 23:59:01,725] [INFO] Update id=806485789 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 23:59:01,725] [INFO] Update id=806485790 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-11 23:59:01,726] [INFO] Update id=806485791 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-12 00:52:19,990] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-12 00:52:19,992] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-12 00:52:21,641] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-12 00:52:21,644] [INFO] Update id=806485792 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-12 01:38:17,373] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-12 01:38:17,375] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-12 01:38:29,008] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-12 02:24:44,348] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-12 02:24:44,349] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-12 02:24:46,012] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-12 02:24:46,016] [INFO] Update id=806485793 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-12 03:05:16,911] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-12 03:05:16,913] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-12 03:05:28,551] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-12 03:37:42,777] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-12 03:37:42,779] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-12 03:37:44,554] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-12 03:37:44,558] [INFO] Update id=806485799 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-12 04:16:47,340] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-12 04:16:47,341] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-12 04:16:49,084] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-12 04:16:49,098] [INFO] Update id=806485800 is not handled. Duration 9 ms by bot id=6971843804
+[2025-05-12 04:16:49,098] [INFO] Update id=806485801 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-12 04:16:49,098] [INFO] Update id=806485802 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-12 04:45:39,235] [INFO] Update id=806485803 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-12 04:45:56,204] [INFO] Update id=806485804 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-12 04:46:59,421] [INFO] Update id=806485805 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-12 04:47:41,823] [INFO] Update id=806485806 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-12 04:51:43,665] [INFO] Update id=806485807 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-12 05:04:20,249] [INFO] Update id=806485808 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-12 05:04:25,181] [INFO] Update id=806485809 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-12 05:28:09,230] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+[2025-05-12 05:28:09,233] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6971843804)
+[2025-05-12 05:28:20,962] [INFO] Connection established (tryings = 1, bot id = 6971843804)
+[2025-05-12 05:54:14,196] [INFO] Update id=806485810 is not handled. Duration 3 ms by bot id=6971843804
+[2025-05-12 06:58:08,212] [INFO] Update id=806485811 is not handled. Duration 20 ms by bot id=6971843804
+[2025-05-12 07:07:06,694] [INFO] Update id=806485812 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-12 07:08:31,602] [INFO] Update id=806485813 is not handled. Duration 1 ms by bot id=6971843804
+[2025-05-12 07:44:33,545] [INFO] Update id=806485814 is not handled. Duration 17 ms by bot id=6971843804
+[2025-05-12 07:57:06,432] [INFO] Update id=806485815 is not handled. Duration 7 ms by bot id=6971843804
+[2025-05-12 07:57:43,388] [INFO] Update id=806485816 is not handled. Duration 2 ms by bot id=6971843804
+[2025-05-12 08:49:00,668] [INFO] Update id=806485817 is not handled. Duration 15 ms by bot id=6971843804
+[2025-05-12 08:52:23,531] [INFO] Update id=806485818 is not handled. Duration 13 ms by bot id=6971843804
+[2025-05-12 08:54:33,899] [INFO] Update id=806485819 is not handled. Duration 18 ms by bot id=6971843804
+[2025-05-12 08:55:04,278] [INFO] Update id=806485820 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-12 08:57:12,442] [INFO] Update id=806485821 is not handled. Duration 4 ms by bot id=6971843804
+[2025-05-12 08:58:19,847] [INFO] Update id=806485822 is not handled. Duration 5 ms by bot id=6971843804
+[2025-05-12 09:00:53,929] [INFO] Update id=806485823 is not handled. Duration 4 ms by bot id=6971843804
