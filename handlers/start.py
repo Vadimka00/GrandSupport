@@ -12,7 +12,7 @@ from aiogram.utils.keyboard import ReplyKeyboardBuilder
 from services.i18n import t, load_translations
 from database import crud
 from utils.logger import logger
-from services.cache import get_user_cached, get_language_keyboard, get_main_keyboard
+from services.cache import get_user_cached, get_language_keyboard, get_main_keyboard, get_active_request_by_user_cached
 import asyncio
 
 router = Router()
@@ -38,8 +38,13 @@ async def cmd_start(message: Message):
 
         # Проверяем роль
         if user.role not in ("admin", "moderator"):
-            kb = await get_main_keyboard(lang)
-            await message.answer(greeting, reply_markup=kb)
+            active_req = await get_active_request_by_user_cached(user.id)
+            if active_req:
+                notice = await t("you_have_active_request", lang)
+                await message.answer(notice)
+            else:
+                kb = await get_main_keyboard(lang)
+                await message.answer(greeting, reply_markup=kb)
         else:
             await message.answer(greeting)
     else:

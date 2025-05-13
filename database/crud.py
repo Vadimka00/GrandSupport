@@ -1,7 +1,7 @@
 # database/crud.py
 
 
-from sqlalchemy import select, update, delete
+from sqlalchemy import select, update, delete, or_
 from sqlalchemy.dialects.mysql import insert
 from database.base import async_session
 from database.models import User, SupportRequest, MessageHistory, Language, Status
@@ -118,11 +118,19 @@ async def get_active_request_by_user(user_id: int) -> Optional[SupportRequest]:
         async with async_session() as session:
             result = await session.execute(
                 select(SupportRequest)
-                .where(SupportRequest.user_id == user_id, SupportRequest.status == "in_progress")
+                .where(
+                    SupportRequest.user_id == user_id,
+                    or_(
+                        SupportRequest.status == "in_progress",
+                        SupportRequest.status == "pending"
+                    )
+                )
             )
             return result.scalar_one_or_none()
     except Exception as e:
-        logger.error(f"Error in get_active_request_by_user({user_id}): {e}\n{traceback.format_exc()}")
+        logger.error(
+            f"Error in get_active_request_by_user({user_id}): {e}\n{traceback.format_exc()}"
+        )
         return None
 
 async def get_active_request_by_moderator(moderator_id: int) -> Optional[SupportRequest]:
