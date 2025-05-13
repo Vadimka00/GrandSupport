@@ -1,7 +1,7 @@
 # handlers/common_messages.py
 
 from aiogram import Router, F
-from aiogram.types import Message, ContentType
+from aiogram.types import Message, ContentType, ReplyKeyboardRemove
 from aiogram.enums import ChatType
 from database import crud
 from config import SUPPORT_GROUP_RU_ID, SUPPORT_GROUP_EN_ID
@@ -52,8 +52,7 @@ async def unified_handler(message: Message):
             logger.info(f"Moderator {sender.id} closed request {req.id}")
 
             confirm = await t("request_closed_confirm", lang)
-            mod_kb = await get_main_keyboard(lang)
-            await message.answer(confirm, reply_markup=mod_kb)
+            await message.answer(confirm, reply_markup=ReplyKeyboardRemove())
 
             notify = await t("request_closed", req.language)
             user_kb = await get_main_keyboard(req.language)
