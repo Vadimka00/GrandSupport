@@ -95,6 +95,7 @@ async def assign_request_to_moderator(request_id: int, moderator_id: int) -> boo
 
             req.status = "in_progress"
             req.assigned_moderator_id = moderator_id
+            req.taken_at = datetime.utcnow()
             await session.commit()
             logger.info(f"Request {request_id} assigned to moderator {moderator_id}")
             return True

@@ -15,6 +15,7 @@ from services.cache import (
     get_close_text
 )
 import asyncio
+from aiocache import caches
 
 router = Router()
 
@@ -57,6 +58,7 @@ async def unified_handler(message: Message):
             notify = await t("request_closed", req.language)
             user_kb = await get_main_keyboard(req.language)
             await message.bot.send_message(req.user_id, notify, reply_markup=user_kb)
+            await caches.get("default").delete(f"get_active_request_by_moderator_cached:{sender.id}")
             return
 
         # Обычный ответ модератора

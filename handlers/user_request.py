@@ -77,8 +77,11 @@ async def receive_request(message: Message, state: FSMContext):
         )
 
     # Подтверждение пользователю
+    request_sent = await t("request_sent", user.language_code)
+    request_sent = request_sent.replace("\\n", "\n")
+
     await message.answer(
-        await t("request_sent", user.language_code),
+        request_sent,
         reply_markup=ReplyKeyboardRemove()
     )
     await state.clear()
