@@ -20,7 +20,7 @@ async def add_group_cmd(message: types.Message):
     group_id = chat.id
     title = chat.title or chat.full_name or chat.username or "Без названия"
 
-    # Получаем фото чата через get_chat
+    # Получаем фото чата
     photo_url = None
     try:
         chat_info = await message.bot.get_chat(chat.id)
@@ -28,19 +28,19 @@ async def add_group_cmd(message: types.Message):
             file = await message.bot.get_file(chat_info.photo.big_file_id)
             photo_url = f"{file.file_path}"
     except Exception as e:
-        photo_url = None  # необязательно, но на всякий случай
-        # можно залогировать: logger.warning(f"Не удалось получить фото группы: {e}")
+        photo_url = None
 
-    # Проверка — уже есть в базе?
+    # Проверка — есть ли уже в БД
     exists = await get_support_group_cached(group_id)
-    if exists:
-        return await message.reply("ℹ️ Эта группа уже зарегистрирована.")
 
-    # Добавление в БД
-    await crud.create_support_group(
+    # Обновление или создание
+    await crud.create_or_update_support_group(
         group_id=group_id,
         title=title,
         photo_url=photo_url
     )
 
-    await message.reply("✅ Группа успешно зарегистрирована.")
+    if exists:
+        await message.reply("🔄 Группа уже была зарегистрирована, данные обновлены.")
+    else:
+        await message.reply("✅ Группа успешно зарегистрирована.")
