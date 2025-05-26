@@ -34,7 +34,7 @@ async def cmd_start(message: Message):
 
     if user.language_code:
         lang = user.language_code
-        greeting = await t("welcome_back", lang)
+        greeting = (await t("welcome_back", lang)).replace("\\n", "\n")
 
         # Проверяем роль
         if user.role not in ("admin", "moderator"):
@@ -81,7 +81,7 @@ async def language_selected(callback: CallbackQuery):
 
     lang_text = await t("language_selected", lang)
     await callback.message.edit_text(lang_text, reply_markup=None)
-    info_text = await t("welcome_info", lang)
+    info_text = (await t("welcome_info", lang)).replace("\\n", "\n")
     kb   = await get_main_keyboard(lang)
     await callback.message.answer(info_text, reply_markup=kb)
     await callback.answer()

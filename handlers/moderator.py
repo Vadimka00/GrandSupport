@@ -7,12 +7,15 @@ from aiogram.utils.keyboard import ReplyKeyboardBuilder
 from database import crud
 from services.i18n import t
 from utils.logger import logger
+from services import openai
 from services.cache import (
     get_user_cached,
     get_active_request_by_moderator_cached,
     get_initial_message_cached,
     get_request_by_id_cached,
-    t_cached
+    t_cached,
+    get_all_groups_with_languages_cached,
+    get_language_name_cached
 )
 
 router = Router()
@@ -20,6 +23,7 @@ router = Router()
 @router.callback_query(F.data.startswith("take:"))
 async def take_request(callback: CallbackQuery):
     request_id = int(callback.data.split(":")[1])
+    clicked_chat_id = callback.message.chat.id
 
     # Получаем модератора из кеша
     moderator = await get_user_cached(callback.from_user.id)
@@ -59,20 +63,42 @@ async def take_request(callback: CallbackQuery):
     )
     logger.info(f"Moderator {moderator.id} assigned to request {request_id}")
 
-    # Пересылаем модератору оригинальное сообщение пользователя
+    # Получаем оригинал сообщения
     initial = await get_initial_message_cached(request_id)
-    if initial:
-        if initial.photo_file_id:
-            await callback.bot.send_photo(
-                moderator.id,
-                photo=initial.photo_file_id,
-                caption=initial.caption or initial.text
-            )
-        else:
-            await callback.bot.send_message(
-                moderator.id,
-                initial.text or initial.caption or ""
-            )
+    original_text = initial.caption or initial.text or ""
+
+    # Получаем язык пользователя
+    req = await get_request_by_id_cached(request_id)
+    user_lang = req.language
+    mod_lang = moderator.language_code
+
+    # Если языки совпадают — не переводим
+    if user_lang == mod_lang:
+        final_text = original_text
+    else:
+        languages = await get_language_name_cached()
+        lang_name = next(
+            (lang["name_ru"] for lang in languages if lang["code"] == mod_lang),
+            mod_lang
+        )
+        translated = await openai.translate_with_gpt(
+            text=original_text,
+            lang_name=lang_name
+        )
+        final_text = f"{original_text}\n\n{translated}"
+
+    # Отправляем
+    if initial.photo_file_id:
+        await callback.bot.send_photo(
+            moderator.id,
+            photo=initial.photo_file_id,
+            caption=final_text
+        )
+    else:
+        await callback.bot.send_message(
+            moderator.id,
+            final_text
+        )
 
     # Уведомляем пользователя о подключении модератора
     req = await get_request_by_id_cached(request_id)
@@ -85,30 +111,72 @@ async def take_request(callback: CallbackQuery):
     )
 
     # Обновляем сообщение в группе: добавляем информацию о том, кто взял
-    taken_by = f"@{moderator.username}" if moderator.username else str(moderator.id)
     template = await t_cached("taken_by", user_lang)
-    taken_text = template.replace("{moderator}", taken_by)
 
-    if callback.message.photo:
-        orig_caption = callback.message.caption or ""
-        new_caption = f"{orig_caption}\n\n{taken_text}"
-        if new_caption != orig_caption:
-            await callback.message.edit_caption(new_caption)
-    else:
-        orig_text = callback.message.text or ""
-        new_text = f"{orig_text}\n\n{taken_text}"
-        if new_text != orig_text:
-            await callback.message.edit_text(new_text)
+    # Получаем все сообщения запроса
+    all_messages = await crud.get_request_messages(request_id)
 
-    # Убираем inline-кнопки группы
-    try:
-        await callback.message.edit_reply_markup()
-    except TelegramBadRequest as e:
-        if "message is not modified" not in str(e):
-            logger.error(f"Unexpected TelegramBadRequest: {e}")
-            raise
+    # Получаем список всех групп и названий
+    groups = await get_all_groups_with_languages_cached()
+    group_title_map = {
+        group["group_id"]: group["group_name"]
+        for group in groups
+    }
+    accepted_group_title = group_title_map.get(clicked_chat_id, "Группа")
 
-    # Ответ успешного взятия
+    # Обновляем все сообщения во всех группах
+    for msg in all_messages:
+        try:
+            if msg.chat_id == clicked_chat_id:
+                # Текущая группа: вставляем имя модератора
+                taken_text = template.replace(
+                    "{moderator}",
+                    f"@{moderator.username}" if moderator.username else str(moderator.id)
+                )
+                original_text = msg.caption or msg.text or ""
+                updated_text = f"{original_text}\n\n{taken_text}"
+
+                if msg.photo_file_id:
+                    await callback.bot.edit_message_caption(
+                        chat_id=msg.chat_id,
+                        message_id=msg.message_id,
+                        caption=updated_text,
+                        reply_markup=None
+                    )
+                else:
+                    await callback.bot.edit_message_text(
+                        chat_id=msg.chat_id,
+                        message_id=msg.message_id,
+                        text=updated_text,
+                        reply_markup=None
+                    )
+            else:
+                # Остальные группы: вставляем название группы
+                taken_text = template.replace(
+                    "{moderator}",
+                    f"✅ {accepted_group_title}"
+                )
+                original_text = msg.caption or msg.text or ""
+                updated_text = f"{original_text}\n\n{taken_text}"
+
+                if msg.photo_file_id:
+                    await callback.bot.edit_message_caption(
+                        chat_id=msg.chat_id,
+                        message_id=msg.message_id,
+                        caption=updated_text,
+                        reply_markup=None
+                    )
+                else:
+                    await callback.bot.edit_message_text(
+                        chat_id=msg.chat_id,
+                        message_id=msg.message_id,
+                        text=updated_text,
+                        reply_markup=None
+                    )
+        except TelegramBadRequest as e:
+            if "message is not modified" not in str(e):
+                logger.warning(f"⚠ Не удалось обновить сообщение в чате {msg.chat_id}: {e}")
+
+    # Ответ модератору
     success_text = await t_cached("taken_success", lang)
     await callback.answer(success_text)
-

@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.enums import ParseMode
 from aiogram.client.bot import Bot, DefaultBotProperties
 from config import BOT_TOKEN
-from handlers import start, user_request, moderator, common_messages
+from handlers import start, user_request, moderator, common_messages, admin
 from services.i18n import load_translations
 from utils.logger import setup_logger, logger
 from middlewares.group_filter import GroupFilterMiddleware
@@ -25,9 +25,9 @@ async def main():
 
     dp = Dispatcher()
 
-    # Подключаем middleware ДО запуска
-    dp.message.middleware(GroupFilterMiddleware())
-    dp.callback_query.middleware(GroupFilterMiddleware())
+    # # Подключаем middleware ДО запуска
+    # dp.message.middleware(GroupFilterMiddleware())
+    # dp.callback_query.middleware(GroupFilterMiddleware())
 
     # Роутеры
     dp.include_routers(
@@ -35,6 +35,7 @@ async def main():
         user_request.router,
         moderator.router,
         common_messages.router,
+        admin.admin_router,
     )
 
     logger.info("🚀 Bot is polling...")

@@ -2,10 +2,9 @@
 from aiogram import BaseMiddleware
 from aiogram.types import Message, CallbackQuery, Update
 from typing import Callable, Dict, Any, Awaitable
+from services.cache import get_allowed_group_ids_cached
 from config import SUPPORT_GROUP_RU_ID, SUPPORT_GROUP_EN_ID
 from utils.logger import logger
-
-ALLOWED_GROUP_IDS = {SUPPORT_GROUP_RU_ID, SUPPORT_GROUP_EN_ID}
 
 class GroupFilterMiddleware(BaseMiddleware):
     async def __call__(
@@ -14,16 +13,12 @@ class GroupFilterMiddleware(BaseMiddleware):
         event: Update,
         data: Dict[str, Any]
     ) -> Any:
-        if isinstance(event, Message):
-            chat = event.chat
-            if chat.type in {"group", "supergroup"} and chat.id not in ALLOWED_GROUP_IDS:
-                logger.warning(f"Blocked message from unknown group: {chat.id}")
-                return  # блокируем
-
-        if isinstance(event, CallbackQuery):
-            chat = event.message.chat
-            if chat.type in {"group", "supergroup"} and chat.id not in ALLOWED_GROUP_IDS:
-                logger.warning(f"Blocked callback from unknown group: {chat.id}")
-                return  # блокируем
+        if isinstance(event, (Message, CallbackQuery)):
+            chat = event.chat if isinstance(event, Message) else event.message.chat
+            if chat.type in {"group", "supergroup"}:
+                allowed_ids = await get_allowed_group_ids_cached()
+                if chat.id not in allowed_ids:
+                    logger.warning(f"Blocked update from unknown group: {chat.id}")
+                    return  # блокируем
 
         return await handler(event, data)

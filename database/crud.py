@@ -1,10 +1,9 @@
 # database/crud.py
-
-
 from sqlalchemy import select, update, delete, or_
+from sqlalchemy.orm import selectinload
 from sqlalchemy.dialects.mysql import insert
 from database.base import async_session
-from database.models import User, SupportRequest, MessageHistory, Language, Status
+from database.models import User, SupportRequest, MessageHistory, Language, Status, SupportGroup, SupportRequestMessage
 from datetime import datetime
 from aiogram.types import Message
 from utils.logger import logger
@@ -67,15 +66,19 @@ async def create_support_request(user_id: int, lang: str) -> Optional[SupportReq
         logger.error(f"Error in create_support_request({user_id}, {lang}): {e}\n{traceback.format_exc()}")
         return None
 
-async def save_message(request_id: int, sender_id: int, message: Message):
+async def save_message(
+    request_id: int,
+    sender_id: int,
+    text: str,
+    photo_file_id: str | None = None
+):
     try:
         async with async_session() as session:
             msg = MessageHistory(
                 request_id=request_id,
                 sender_id=sender_id,
-                text=message.text,
-                photo_file_id=message.photo[-1].file_id if message.photo else None,
-                caption=message.caption if message.caption else None,
+                text=text,
+                photo_file_id=photo_file_id
             )
             session.add(msg)
             await session.commit()
@@ -180,7 +183,14 @@ async def get_available_languages():
     async with async_session() as session:
         result = await session.execute(select(Language).where(Language.available == True))
         return result.scalars().all()
-    
+
+async def get_language_codes_with_russian_names() -> list[dict[str, str]]:
+    async with async_session() as session:
+        result = await session.execute(
+            select(Language.code, Language.name_ru).where(Language.available == True)
+        )
+        return [{"code": code, "name_ru": name_ru} for code, name_ru in result.all()]
+
 async def get_pending_statuses():
     async with async_session() as session:
         result = await session.execute(select(Status))
@@ -190,3 +200,67 @@ async def delete_status_by_id(user_id: int):
     async with async_session() as session:
         await session.execute(delete(Status).where(Status.id == user_id))
         await session.commit()
+
+async def get_support_group(group_id: int):
+    async with async_session() as session:
+        result = await session.execute(
+            select(SupportGroup).where(SupportGroup.id == group_id)
+        )
+        return result.scalar_one_or_none()
+
+async def create_or_update_support_group(group_id: int, title: str, photo_url: str | None):
+    async with async_session() as session:
+        existing = await session.get(SupportGroup, group_id)
+
+        if existing:
+            existing.title = title
+            existing.photo_url = photo_url
+        else:
+            session.add(SupportGroup(id=group_id, title=title, photo_url=photo_url))
+
+        await session.commit()
+    
+async def get_all_groups_with_languages():
+    async with async_session() as session:
+        result = await session.execute(
+            select(SupportGroup)
+            .options(selectinload(SupportGroup.languages))
+        )
+        groups = result.scalars().all()
+
+        return [
+            {
+                "group_id": group.id,
+                "group_name": group.title,
+                "languages": [lang.language_code for lang in group.languages]
+            }
+            for group in groups
+        ]
+    
+async def save_request_message(
+    request_id: int,
+    chat_id: int,
+    message_id: int,
+    text: str | None = None,
+    caption: str | None = None,
+    photo_file_id: str | None = None
+):
+    async with async_session() as session:
+        session.add(SupportRequestMessage(
+            request_id=request_id,
+            chat_id=chat_id,
+            message_id=message_id,
+            text=text,
+            caption=caption,
+            photo_file_id=photo_file_id
+        ))
+        await session.commit()
+
+
+async def get_request_messages(request_id: int) -> list[SupportRequestMessage]:
+    async with async_session() as session:
+        result = await session.execute(
+            select(SupportRequestMessage)
+            .where(SupportRequestMessage.request_id == request_id)
+        )
+        return result.scalars().all()

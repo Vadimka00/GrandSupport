@@ -7,12 +7,14 @@ from database import crud
 from config import SUPPORT_GROUP_RU_ID, SUPPORT_GROUP_EN_ID
 from utils.logger import logger
 from services.i18n import t
+from services import openai
 from handlers.start import get_main_keyboard
 from services.cache import (
     get_user_cached,
     get_active_request_by_user_cached,
     get_active_request_by_moderator_cached,
-    get_close_text
+    get_close_text,
+    get_language_name_cached
 )
 import asyncio
 from aiocache import caches
@@ -31,57 +33,89 @@ async def _forward_caption(bot, target: int, message: Message) -> None:
     F.content_type.in_([ContentType.TEXT, ContentType.PHOTO])
 )
 async def unified_handler(message: Message):
-    # Получаем пользователя из кеша
     sender = await get_user_cached(message.from_user.id)
     if not sender:
         return
 
     role = sender.role
-    lang = sender.language_code
+    sender_lang = sender.language_code
+    original_text = message.caption or message.text or ""
 
-    # Модератор
     if role in ("moderator", "admin"):
+        # ===== МОДЕРАТОР =====
         req = await get_active_request_by_moderator_cached(sender.id)
-        close_text = await get_close_text(lang)
+        if not req:
+            return
 
-        # Кнопка "Закрыть"
+        # Закрытие запроса по кнопке
+        close_text = await get_close_text(sender_lang)
         if message.text == close_text:
-            if not req:
-                return await message.answer(await t("no_active_request", lang))
-
             await crud.close_request(req.id)
             logger.info(f"Moderator {sender.id} closed request {req.id}")
 
-            confirm = await t("request_closed_confirm", lang)
+            confirm = await t("request_closed_confirm", sender_lang)
             await message.answer(confirm, reply_markup=ReplyKeyboardRemove())
 
             notify = await t("request_closed", req.language)
-            user_kb = await get_main_keyboard(req.language)
-            await message.bot.send_message(req.user_id, notify, reply_markup=user_kb)
+            kb = await get_main_keyboard(req.language)
+            await message.bot.send_message(req.user_id, notify, reply_markup=kb)
             await caches.get("default").delete(f"get_active_request_by_moderator_cached:{sender.id}")
             return
 
-        # Обычный ответ модератора
-        if not req:
-            return
-        # Фоновая запись сообщения в БД
-        asyncio.create_task(crud.save_message(req.id, sender.id, message))
-        logger.info(f"Moderator reply enqueued: mod_id={sender.id}, request_id={req.id}")
+        # Получатель — пользователь
+        recipient = await get_user_cached(req.user_id)
+        recipient_lang = recipient.language_code
 
-        await _forward_caption(message.bot, req.user_id, message)
-        return
-
-    # Пользователь
-    if role == "user":
+    elif role == "user":
+        # ===== ПОЛЬЗОВАТЕЛЬ =====
         req = await get_active_request_by_user_cached(sender.id)
-        if not req:
+        if not req or not req.assigned_moderator_id:
             return
 
-        # Фоновая запись сообщения в БД
-        asyncio.create_task(crud.save_message(req.id, sender.id, message))
-        logger.info(f"User message enqueued: user_id={sender.id}, request_id={req.id}")
+        recipient = await get_user_cached(req.assigned_moderator_id)
+        recipient_lang = recipient.language_code
 
-        target = req.assigned_moderator_id or (
-            SUPPORT_GROUP_RU_ID if lang == "ru" else SUPPORT_GROUP_EN_ID
+    else:
+        return  # неизвестная роль
+
+    # ======= ПЕРЕВОД и СБОРКА =======
+
+    if sender_lang != recipient_lang:
+        languages = await get_language_name_cached()
+        lang_name = next(
+            (l["name_ru"] for l in languages if l["code"] == recipient_lang),
+            recipient_lang
         )
-        await _forward_caption(message.bot, target, message)
+        translated_text = await openai.translate_with_gpt(
+            text=original_text,
+            lang_name=lang_name
+        )
+        message_to_send = translated_text
+        combined_text = f"{original_text}\n\n{translated_text}"
+    else:
+        message_to_send = original_text
+        combined_text = original_text
+
+    # ======= ОТПРАВКА =======
+
+    if message.photo:
+        await message.bot.send_photo(
+            recipient.id,
+            photo=message.photo[-1].file_id,
+            caption=message_to_send
+        )
+    else:
+        await message.bot.send_message(
+            recipient.id,
+            text=message_to_send
+        )
+
+    # ======= СОХРАНЕНИЕ В БАЗУ =======
+    await crud.save_message(
+        request_id=req.id,
+        sender_id=sender.id,
+        text=combined_text,
+        photo_file_id=message.photo[-1].file_id if message.photo else None
+    )
+
+    logger.info(f"{role.capitalize()} message forwarded: from {sender.id} to {recipient.id}, req_id={req.id}")
