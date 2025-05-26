@@ -8,7 +8,7 @@ from keyboards.inline import take_request_kb
 from utils.logger import logger
 
 from database import crud
-from services.i18n import t
+from services.i18n import support_triggers, t
 from services import openai
 
 import asyncio
@@ -19,7 +19,7 @@ router = Router()
 class SupportRequestStates(StatesGroup):
     waiting_for_message = State()
 
-@router.message(F.text.in_(["✉️ Обратиться в поддержку", "✉️ Contact support", "✉️ Support kontaktieren", "✉️ Contacter le support"]))
+@router.message(F.text.in_(support_triggers))
 async def request_support(message: Message, state: FSMContext):
     user = await get_user_cached(message.from_user.id)
     logger.info(f"User {message.from_user.id} started support request process")

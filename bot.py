@@ -4,7 +4,6 @@ from aiogram import Bot, Dispatcher
 from aiogram.enums import ParseMode
 from aiogram.client.bot import Bot, DefaultBotProperties
 from config import BOT_TOKEN
-from handlers import start, user_request, moderator, common_messages, admin
 from services.i18n import load_translations
 from utils.logger import setup_logger, logger
 from middlewares.group_filter import GroupFilterMiddleware
@@ -22,6 +21,8 @@ async def main():
 
     await load_translations()
     logger.info("✅ Translations loaded")
+
+    from handlers import start, user_request, moderator, common_messages, admin
 
     dp = Dispatcher()
 
