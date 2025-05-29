@@ -69,7 +69,8 @@ async def create_support_request(user_id: int, lang: str) -> Optional[SupportReq
 async def save_message(
     request_id: int,
     sender_id: int,
-    text: str,
+    text: str | None = None,
+    caption: str | None = None,
     photo_file_id: str | None = None
 ):
     try:
@@ -78,6 +79,7 @@ async def save_message(
                 request_id=request_id,
                 sender_id=sender_id,
                 text=text,
+                caption=caption,
                 photo_file_id=photo_file_id
             )
             session.add(msg)

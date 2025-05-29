@@ -33,6 +33,14 @@ async def _forward_caption(bot, target: int, message: Message) -> None:
     F.content_type.in_([ContentType.TEXT, ContentType.PHOTO])
 )
 async def unified_handler(message: Message):
+
+    # ===== ФИЛЬТР допустимых сообщений =====
+    if message.photo and not message.caption:
+        return  # игнорируем фото без подписи
+
+    if message.media_group_id:
+        return  # игнорируем медиагруппы
+
     sender = await get_user_cached(message.from_user.id)
     if not sender:
         return
@@ -78,6 +86,11 @@ async def unified_handler(message: Message):
     else:
         return  # неизвестная роль
 
+    # ======= Показ "печатает/отправляет" =======
+    action = "upload_photo" if message.photo else "typing"
+    await message.bot.send_chat_action(recipient.id, action=action)
+
+
     # ======= ПЕРЕВОД и СБОРКА =======
 
     if sender_lang != recipient_lang:
@@ -114,7 +127,8 @@ async def unified_handler(message: Message):
     await crud.save_message(
         request_id=req.id,
         sender_id=sender.id,
-        text=combined_text,
+        text=combined_text if not message.photo else None,
+        caption=combined_text if message.photo else None,
         photo_file_id=message.photo[-1].file_id if message.photo else None
     )
 

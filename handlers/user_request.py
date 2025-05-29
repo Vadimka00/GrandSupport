@@ -44,9 +44,29 @@ async def receive_request(message: Message, state: FSMContext):
         await state.clear()
         return
 
+    # ===== ФИЛЬТР: только текст или одно фото с подписью =====
+    if message.photo and not message.caption:
+        return
+    if message.media_group_id:
+        return
+
     # Сохраняем запрос и сообщение
     request = await crud.create_support_request(user.id, user.language_code)
-    asyncio.create_task(crud.save_message(request.id, user.id, message))
+    photo_id = message.photo[-1].file_id if message.photo else None
+    text = message.text if message.text else None
+    caption = message.caption if message.caption else None
+
+    # фильтрация мусора: если вообще ничего не пришло — не сохраняем
+    if text or caption:
+        asyncio.create_task(
+            crud.save_message(
+                request_id=request.id,
+                sender_id=user.id,
+                text=text,
+                caption=caption,
+                photo_file_id=photo_id
+            )
+        )
     logger.info(f"New support request created: req_id={request.id}, user_id={user.id}")
 
     # Формируем текст на языке пользователя
@@ -57,63 +77,66 @@ async def receive_request(message: Message, state: FSMContext):
     kb = await take_request_kb(request.id, user.language_code)
 
     # Получаем все группы с этим языком
-    all_groups = await get_all_groups_with_languages_cached()
-    user_groups = [
-        group for group in all_groups
-        if user.language_code in group["languages"]
-    ]
+    try:
+        all_groups = await get_all_groups_with_languages_cached()
+        user_groups = [
+            group for group in all_groups
+            if user.language_code in group["languages"]
+        ]
 
-    # Ищем среди них одну группу, в которой есть и ru
-    group_with_ru = next(
-        (group for group in user_groups if "ru" in group["languages"]),
-        None
-    )
-
-    # Получаем перевод, если он нужен
-    translated = ""
-    if user.language_code != "ru" and group_with_ru:
-        translated = await openai.translate_with_gpt(
-            text=request_text,
-            lang_name="Русский"
+        # Ищем среди них одну группу, в которой есть и ru
+        group_with_ru = next(
+            (group for group in user_groups if "ru" in group["languages"]),
+            None
         )
 
-    # Рассылка
-    for group in user_groups:
-        group_id = group["group_id"]
-        final_text = request_text
-
-        if group_with_ru and group_id == group_with_ru["group_id"] and translated:
-            final_text = f"{request_text}\n\n{translated}"
-
-        if message.photo:
-            msg = await message.bot.send_photo(
-                group_id,
-                photo=message.photo[-1].file_id,
-                caption=final_text,
-                reply_markup=kb
-            )
-            await crud.save_request_message(
-                request_id=request.id,
-                chat_id=group_id,
-                message_id=msg.message_id,
-                caption=final_text,
-                photo_file_id=message.photo[-1].file_id
-            )
-        else:
-            msg = await message.bot.send_message(
-                group_id,
-                final_text,
-                reply_markup=kb
-            )
-            await crud.save_request_message(
-                request_id=request.id,
-                chat_id=group_id,
-                message_id=msg.message_id,
-                text=final_text
+        # Получаем перевод, если он нужен
+        translated = ""
+        if user.language_code != "ru" and group_with_ru:
+            translated = await openai.translate_with_gpt(
+                text=request_text,
+                lang_name="Русский"
             )
 
-    # Подтверждение пользователю
-    request_sent = await t("request_sent", user.language_code)
-    request_sent = request_sent.replace("\\n", "\n")
-    await message.answer(request_sent, reply_markup=ReplyKeyboardRemove())
-    await state.clear()
+        # Рассылка
+        for group in user_groups:
+            group_id = group["group_id"]
+            final_text = request_text
+
+            if group_with_ru and group_id == group_with_ru["group_id"] and translated:
+                final_text = f"{request_text}\n\n{translated}"
+
+            if message.photo:
+                msg = await message.bot.send_photo(
+                    group_id,
+                    photo=message.photo[-1].file_id,
+                    caption=final_text,
+                    reply_markup=kb
+                )
+                await crud.save_request_message(
+                    request_id=request.id,
+                    chat_id=group_id,
+                    message_id=msg.message_id,
+                    caption=final_text,
+                    photo_file_id=message.photo[-1].file_id
+                )
+            else:
+                msg = await message.bot.send_message(
+                    group_id,
+                    final_text,
+                    reply_markup=kb
+                )
+                await crud.save_request_message(
+                    request_id=request.id,
+                    chat_id=group_id,
+                    message_id=msg.message_id,
+                    text=final_text
+                )
+
+        # Подтверждение пользователю
+        request_sent = await t("request_sent", user.language_code)
+        request_sent = request_sent.replace("\\n", "\n")
+        await message.answer(request_sent, reply_markup=ReplyKeyboardRemove())
+        await state.clear()
+    except Exception as e:
+        logger.exception(f"❌ Exception during message handling: {e}")
